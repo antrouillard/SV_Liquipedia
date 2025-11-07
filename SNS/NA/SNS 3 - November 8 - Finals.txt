@@ -1,8 +1,7 @@
 {{DISPLAYTITLE:SNS NA #3 Finals}}
 {{Tabs static
 |name1=Overview |link1=SUPERVIVE/SNS/NA/November/2
-|name2=Group Stage |link2=SUPERVIVE/SNS/NA/November/2/Group_Stage
-|name3=Finals |link3=SUPERVIVE/SNS/NA/November/2/Finals
+|name2=Finals |link2=SUPERVIVE/SNS/NA/November/2/Finals
 }}
 {{HiddenDataBox
 |liquipediatier=1
@@ -27,18 +26,18 @@
 |R1M1={{Match|finished=0
 	|p_kill=1
 	|twitch=|youtube=
-	|opponent1={{TeamOpponent|TBD}}
-	|opponent2={{TeamOpponent|TBD}}
-	|opponent3={{TeamOpponent|TBD}}
-	|opponent4={{TeamOpponent|TBD}}
-	|opponent5={{TeamOpponent|TBD}}
-	|opponent6={{TeamOpponent|TBD}}
-	|opponent7={{TeamOpponent|TBD}}
-	|opponent8={{TeamOpponent|TBD}}
-	|opponent9={{TeamOpponent|TBD}}
-	|opponent10={{TeamOpponent|TBD}}
-	|opponent11={{TeamOpponent|TBD}}
-	|opponent12={{TeamOpponent|TBD}}
+	|opponent1={{TeamOpponent|Last Chance}}
+	|opponent2={{TeamOpponent|Sqawkers Appreciate Waddling}}
+	|opponent3={{TeamOpponent|BAP}}
+	|opponent4={{TeamOpponent|Supervive Illuminati}}
+	|opponent5={{TeamOpponent|The Last Door}}
+	|opponent6={{TeamOpponent|BANNED}}
+	|opponent7={{TeamOpponent|Queue Arena}}
+	|opponent8={{TeamOpponent|DDM}}
+	|opponent9={{TeamOpponent|The Clyde Show}}
+	|opponent10={{TeamOpponent|GAY}}
+	|opponent11={{TeamOpponent|Train Deaths Only}}
+	|opponent12={{TeamOpponent|Biroufs Muscles}}
 }}
 }}
 

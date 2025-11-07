@@ -32,13 +32,13 @@
 <section begin="Format"/>
 ====Group Stage====
 * '''Group Stage:''' ''November 7th''
-** X teams of 3 will be split into 2 groups of 12 teams each : 
+** 15 teams of 3 will be split into 2 groups : 
 *** Group A has the top seeded teams to allow them two chances of qualification to ''Finals''
-**** {{bgcolortext|stayup|Top 7 teams}} of Group A will advance to the ''Finals''.
-**** {{bgcolortext|staydown|Bottom 5 teams}} of Group A go fill Group B.
+**** {{bgcolortext|stayup|Top 3 teams}} of Group A will advance to the ''Finals''.
+**** {{bgcolortext|staydown|Bottom 9 teams}} of Group A go fill Group B.
 *** Group B has the lowest seeded teams.
-**** {{bgcolortext|stayup|Top 5 teams}} of Group B will advance to the ''Finals''.
-**** {{bgcolortext|staydown|Bottom 7 teams}} are eliminated.
+**** {{bgcolortext|stayup|Top 9 teams}} of Group B will advance to the ''Finals''.
+**** {{bgcolortext|staydown|Bottom 3 teams}} are eliminated.
 ** Each team will play 4 games in the ''Group Stage''.
 ** After the stage, 12 teams will advance to the ''Finals'' based off their scores in the ''Group Stage'':
 
@@ -126,76 +126,76 @@
 {{TeamCardToggleButton|playerinfo=true|tcht=215}}
 {{TeamCard columns start|cols=6}}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=One Quick Win
+|p1=velati|p1flag=eu
+|p2=Sunshies|p2flag=eu
+|p3=SIX PAST NOON|p3flag=ru
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=Apex Hunters
+|p1=Vipero|p1flag=se
+|p2=L1z4rdo|p2flag=pl
+|p3=Rhapsodie|p3flag=fr
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=Abyss Trinity
+|p1=Moawik|p1flag=de
+|p2=Crystall|p2flag=de
+|p3=JoBoe|p3flag=eu
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=ATK
+|p1=TrainEnthusiast|p1flag=eu
+|p2=TheBackpackGods|p2flag=eu
+|p3=atsu|p3flag=eu
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=Pôle Emploi
+|p1=TrepA|p1flag=fr
+|p2=Doudzer|p2flag=fr
+|p3=Le mec gentil|p3flag=fr
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=First Line Front
+|p1=MariOnet|p1flag=eu
+|p2=J-raf|p2flag=eu
+|p3=Sparta|p3flag=eu
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=Fish
+|p1=LePiggy|p1flag=eu
+|p2=GrosLombaire|p2flag=eu
+|p3=I Drive|p3flag=eu
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=HAT SOUP COUP
+|p1=RanterGMR|p1flag=fr
+|p2=milkhoney|p2flag=eu
+|p3=catheist|p3flag=est
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=Kinetic
+|p1=MYSTIC|p1flag=eu
+|p2=KROKUS|p2flag=eu
+|p3=Kazumoe|p3flag=eu
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=Old N Washed
+|p1=Snow|p1flag=eu
+|p2=Knemo|p2flag=eu
+|p3=who dis|p3flag=dk
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=AMOGUS
+|p1=Hunger121212|p1flag=eu
+|p2=Zeolade|p2flag=eu
+|p3=Spore|p3flag=eu
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=Sweatervive
+|p1=CapnHammered|p1flag=eu
+|p2=Syk Yr Void|p2flag=eu
+|p3=Mownster|p3flag=eu
 }}
 {{TeamCard columns end}}
 
@@ -203,76 +203,85 @@
 {{TeamCardToggleButton|playerinfo=true|tcht=215}}
 {{TeamCard columns start|cols=6}}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=Ayayaya
+|p1=Weyan|p1flag=eu
+|p2=BiBiBloOX|p2flag=eu
+|p3=Breeves|p3flag=fr
+}}
+{{TeamCard|players=3
+|team=Nerf Shrike
+|p1=Lumile_|p1flag=fr
+|p2=Symbiose|p2flag=eu
+|p3=Maddo|p3flag=eu
+}}
+{{TeamCard|players=3
+|team=ROG
+|p1=GPA|p1flag=eu
+|p2=Olonox|p2flag=eu
+|p3=Reign|p3flag=eu
 }}
 {{TeamCard|players=3
 |team=TBD
 |p1=|p1flag=eu
 |p2=|p2flag=eu
 |p3=|p3flag=eu
+|qualifier= 4th or below in Group A
 }}
 {{TeamCard|players=3
 |team=TBD
 |p1=|p1flag=eu
 |p2=|p2flag=eu
 |p3=|p3flag=eu
+|qualifier= 4th or below in Group A
 }}
 {{TeamCard|players=3
 |team=TBD
 |p1=|p1flag=eu
 |p2=|p2flag=eu
 |p3=|p3flag=eu
+|qualifier= 4th or below in Group A
 }}
 {{TeamCard|players=3
 |team=TBD
 |p1=|p1flag=eu
 |p2=|p2flag=eu
 |p3=|p3flag=eu
+|qualifier= 4th or below in Group A
 }}
 {{TeamCard|players=3
 |team=TBD
 |p1=|p1flag=eu
 |p2=|p2flag=eu
 |p3=|p3flag=eu
+|qualifier= 4th or below in Group A
 }}
 {{TeamCard|players=3
 |team=TBD
 |p1=|p1flag=eu
 |p2=|p2flag=eu
 |p3=|p3flag=eu
+|qualifier= 4th or below in Group A
 }}
 {{TeamCard|players=3
 |team=TBD
 |p1=|p1flag=eu
 |p2=|p2flag=eu
 |p3=|p3flag=eu
+|qualifier= 4th or below in Group A
 }}
 {{TeamCard|players=3
 |team=TBD
 |p1=|p1flag=eu
 |p2=|p2flag=eu
 |p3=|p3flag=eu
+|qualifier= 4th or below in Group A
 }}
 {{TeamCard|players=3
 |team=TBD
 |p1=|p1flag=eu
 |p2=|p2flag=eu
 |p3=|p3flag=eu
-}}
-{{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
-}}
-{{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|qualifier= 4th or below in Group A
 }}
 {{TeamCard columns end}}
 

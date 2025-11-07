@@ -17,13 +17,13 @@
 ==Format==
 <section begin="Format"/>
 * '''Group Stage:''' ''November 7th''
-** 19 teams of 3 will be split into 2 groups of 12 teams each.
+** 15 teams of 3 will be split into 2 groups.
 ** Each team will play 4 games in the ''Group Stage''.
 ** After the stage, 12 teams will advance to the ''Finals'' based off their scores of the ''Group Stage'':
-*** {{bgcolortext|stayup|Top 7 teams}} of Group A will advance to the ''Finals''.
-*** {{bgcolortext|staydown|Bottom 5 teams}} of Group A move to Group B.
-*** {{bgcolortext|stayup|Top 5 teams}} of Group B will advance to the ''Finals''.
-*** {{bgcolortext|staydown|Bottom 7 teams}} of Group B are eliminated.
+*** {{bgcolortext|stayup|Top 3 teams}} of Group A will advance to the ''Finals''.
+*** {{bgcolortext|staydown|Bottom 9 teams}} of Group A move to Group B.
+*** {{bgcolortext|stayup|Top 9 teams}} of Group B will advance to the ''Finals''.
+*** {{bgcolortext|staydown|Bottom 3 teams}} of Group B are eliminated.
 <section end="Format"/>
 
 ==Group Draw==
@@ -34,41 +34,38 @@
 !width=300px|Group A
 !width=300px|Group B
 |-
-|width=300px|{{Flag|eu}}{{Team|TBD}}
-|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|One Quick Win}}
+|width=300px|{{Flag|eu}}{{Team|Ayayaya}}
 |-
-|width=300px|{{Flag|eu}}{{Team|TBD}}
-|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|Apex Hunters}}
+|width=300px|{{Flag|eu}}{{Team|Nerf Shrike}}
 |-
-|width=300px|{{Flag|eu}}{{Team|TBD}}
-|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|Abyss Trinity}}
+|width=300px|{{Flag|eu}}{{Team|ROG}}
 |-
-|width=300px|{{Flag|eu}}{{Team|TBD}}
-|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|ATK}}
 |-
-|width=300px|{{Flag|eu}}{{Team|TBD}}
-|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|Pôle Emploi}}
 |-
-|width=300px|{{Flag|eu}}{{Team|TBD}}
-|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|First Line Front}}
 |-
-|width=300px|{{Flag|eu}}{{Team|TBD}}
-|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|Fish}}
+|
 |-
-|width=300px|{{Flag|eu}}{{Team|TBD}}
-|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|HAT SOUP COUP}}
+|
 |-
-|width=300px|{{Flag|eu}}{{Team|TBD}}
-|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|Kinetic}}
+|
 |-
-|width=300px|{{Flag|eu}}{{Team|TBD}}
-|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|Old N Washed}}
+|
 |-
-|width=300px|{{Flag|eu}}{{Team|TBD}}
-|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|AMOGUS}}
+|
 |-
-|width=300px|{{Flag|eu}}{{Team|TBD}}
-|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|Sweatervive}}
+|
 |-
 |}
 {{LPDB storage|true}}</small></center>
@@ -87,9 +84,25 @@
 |M1={{Match|finished=0
     |p_kill=1 |p1=20 |p2=15 |p3=12 |p4=10 |p5=8 |p6=6 |p7=4 |p8=3 |p9=2 |p10=1 |p11=0 |p12=0
     |twitch=madmagical|youtube=
-    |opponent1={{TeamOpponent|TBD}}
-    |opponent2={{TeamOpponent|TBD}}
-    |opponent3={{TeamOpponent|TBD}}
+    |opponent1={{TeamOpponent|One Quick Win}}
+    |opponent2={{TeamOpponent|Apex Hunters}}
+    |opponent3={{TeamOpponent|Abyss Trinity}}
+    |opponent4={{TeamOpponent|ATK}}
+    |opponent5={{TeamOpponent|Pôle Emploi}}
+    |opponent6={{TeamOpponent|First Line Front}}
+    |opponent7={{TeamOpponent|----:-}}
+    |opponent8={{TeamOpponent|HAT SOUP COUP}}
+    |opponent9={{TeamOpponent|Kinetic}}
+    |opponent10={{TeamOpponent|Old N Washed}}
+    |opponent11={{TeamOpponent|AMOGUS}}
+    |opponent12={{TeamOpponent|Sweatervive}}
+}}
+|M2={{Match|finished=0
+    |p_kill=1 |p1=20 |p2=15 |p3=12 |p4=10 |p5=8 |p6=6 |p7=4 |p8=3 |p9=2 |p10=1 |p11=0 |p12=0
+    |twitch=madmagical|youtube=
+    |opponent1={{TeamOpponent|Ayayaya}}
+    |opponent2={{TeamOpponent|Nerf Shrike}}
+    |opponent3={{TeamOpponent|Reign Olonox GPA}}
     |opponent4={{TeamOpponent|TBD}}
     |opponent5={{TeamOpponent|TBD}}
     |opponent6={{TeamOpponent|TBD}}
@@ -99,22 +112,6 @@
     |opponent10={{TeamOpponent|TBD}}
     |opponent11={{TeamOpponent|TBD}}
     |opponent12={{TeamOpponent|TBD}}
-}}
-|M2={{Match|finished=0
-    |p_kill=1 |p1=20 |p2=15 |p3=12 |p4=10 |p5=8 |p6=6 |p7=4 |p8=3 |p9=2 |p10=1 |p11=0 |p12=0
-    |twitch=madmagical|youtube=
-    |opponent1={{TeamOpponent|TBD}}
-    |opponent2={{TeamOpponent|TBD}}
-    |opponent3={{TeamOpponent|TBD}}
-    |opponent4={{TeamOpponent|TBD}}
-    |opponent5={{TeamOpponent|TBD}}
-    |opponent6={{TeamOpponent|TBD}}
-    |opponent7={{TeamOpponent|TBD}}
-    |opponent8={{TeamOpponent|TBD}}
-    |opponent9={{TeamOpponent|TBD}}
-    |opponent10={{TeamOpponent|TBD}}
-	|opponent11={{TeamOpponent|TBD}}
-	|opponent12={{TeamOpponent|TBD}}
 }}
 }}
 {{Tabs dynamic/tab|2}}
