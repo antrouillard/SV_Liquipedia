@@ -1,0 +1,325 @@
+{{DISPLAYTITLE:SNS NA #1}}
+{{Tabs static
+|name1=Overview |link1=SUPERVIVE/SNS/NA/October
+|name2=Group Stage |link2=SUPERVIVE/SNS/NA/October/Group_Stage
+|name3=Finals |link3=SUPERVIVE/SNS/NA/October/Finals
+}}
+{{Infobox league
+|name=Saturday Night Supervive NA #1
+|tickername=Saturday Night Supervive NA #1
+|shortname=SNS NA #1
+|image=SNS_Logo_Moon.png
+|imagedark=
+|type=Online
+|country=north america
+|sponsor=TheoryCraft Games
+|series=Saturday Night Vive
+|organizer=
+|organizer2=
+|sdate=24/10/2025
+|edate=25/10/2025
+|prizepoolusd=2500
+|twitch=theorycraftgames
+|discord=mQSZsGzFHP
+|team_number=12
+|liquipediatier=2
+|map1=Skylands
+}}
+
+===Format===
+<section begin="Format"/>
+====Group Stage====
+* '''Group Stage:''' ''October 24th''
+** X teams of 3 will be split into X even groups of 12 teams each.
+** Each team will play 6 games in the ''Group Stage''.
+** After the stage, 12 teams will advance to the ''Finals'' based off their scores in the ''Group Stage'':
+*** {{bgcolortext|stayup|Top X teams}} of each group will advance to the ''Finals''.
+*** {{bgcolortext|staydown|Bottom X teams}} of each group are eliminated.
+* See ''[[SUPERVIVE/SNS/NA/October/Group_Stage|Group Stage]]'' tab for Group Draw, Standings, and Match Results.
+====Finals====
+* '''Finals:''' ''October 25th''
+** The 12 remaining teams will play 6 games to compete for the first place in scores.
+* See ''[[SUPERVIVE/SNS/NA/October/Finals|Finals]]'' tab for Match Results.
+<section end="Format"/>
+====Scoring System====
+* Tiebreakers : the team with more total placement points ; otherwise, the team with more points before the last game
+
+* <span class="mw-customtoggle-Seeding">''Click here to show the Scoring System.''</span>
+<div class="table-responsive">
+<div class="toccolours mw-collapsible mw-collapsed" id="mw-customcollapsible-Seeding" style="width:500px; margin-left:45px">
+{| class="wikitable"
+|-
+!style="width:5em;text-align:center" | Top
+!style="width:7em" | placement points
+|-
+|style="text-align: center;" |1st
+|style="text-align: center;" |20
+|-
+|style="text-align: center;" |2nd
+|style="text-align: center;" |15
+|-
+|style="text-align: center;" |3rd
+|style="text-align: center;" |12
+|-
+|style="text-align: center;" |4th
+|style="text-align: center;" |10
+|-
+|style="text-align: center;" |5th
+|style="text-align: center;" |8
+|-
+|style="text-align: center;" |6th
+|style="text-align: center;" |6
+|-
+|style="text-align: center;" |7th 
+|style="text-align: center;" |4
+|-
+|style="text-align: center;" |8th 
+|style="text-align: center;" |3
+|-
+|style="text-align: center;" |9th
+|style="text-align: center;" |2
+|-
+|style="text-align: center;" |10th
+|style="text-align: center;" |1
+|-
+|style="text-align: center;" |11th
+|style="text-align: center;" |0
+|-
+|style="text-align: center;" |12th
+|style="text-align: center;" |0
+|-
+|}
+{| class="wikitable"
+|-
+!style="width:5em;text-align:center" | Kill Points
+|style="text-align: center;" |1<sup>*</sup>
+|-
+|}
+<sup>*</sup> Kills are awarded to the assailant player who last damaged the target player upon full death to player box state.
+</div></div>
+
+===Prize Pool===
+{{TeamPrizePool
+|{{Slot|usdprize=1350|{{Opponent|The Last Door}}}}
+|{{Slot|usdprize=750|{{Opponent|BAP}}}}
+|{{Slot|usdprize=400|{{Opponent|LC}}}}
+|{{Slot|{{Opponent|BAN}}}}
+|{{Slot|{{Opponent|COW}}}}
+|{{Slot|{{Opponent|Januaru}}}}
+|{{Slot|{{Opponent|LeandriL Never Falls}}}}
+|{{Slot|{{Opponent|Built Different Entirely}}}}
+|{{Slot|{{Opponent|HYD}}}}
+|{{Slot|{{Opponent|SQA}}}}
+|{{Slot|{{Opponent|DOG}}}}
+|{{Slot|{{Opponent|QA}}}}
+}}
+
+==Group A : Participants==
+{{TeamCardToggleButton|playerinfo=true|tcht=215}}
+{{TeamCard columns start|cols=6}}
+{{TeamCard|players=3
+|team=BAP
+|p1=SHRICHAEL JORDAN|p1flag=north america
+|p2=Hight|p2flag=north america
+|p3=spades|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=The Last Door
+|p1=Lemur|p1flag=north america
+|p2=PhenomEX|p2flag=north america
+|p3=Lodds|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=LC
+|p1=Toilet|p1flag=north america
+|p2=jetskii 爱你|p2flag=north america
+|p3=Misfit|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=BAN
+|p1=Protofo|p1flag=north america
+|p2=Michamunch|p2flag=north america
+|p3=大梦想先觉 平生我自知|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=COW
+|p1=The Dictator|p1flag=north america
+|p2=Diamond|p2flag=north america
+|p3=我们一起蹦蹦叫 一起喵喵喵喵|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=Januaru
+|p1=Jang|p1flag=north america
+|p2=Mirvidual|p2flag=north america
+|p3=Despi|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=QA
+|p1=WubbyBay|p1flag=north america
+|p2=thelegend1902|p2flag=north america
+|p3=roughly 44 ducks|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=Built Different Entirely
+|p1=GameOver|p1flag=north america
+|p2=stealthninja|p2flag=north america
+|p3=HAFXD|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=HYD
+|p1=Pensato|p1flag=north america
+|p2=mvchest|p2flag=north america
+|p3=Ciddy|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=Supervive Aristocracy
+|p1=Flint|p1flag=north america
+|p2=Bel|p2flag=north america
+|p3=Miskate|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=SQA
+|p1=DTF|p1flag=north america
+|p2=Dylanphttv|p2flag=north america
+|p3=Goroy|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=SadBoyz
+|p1=Addianis|p1flag=north america
+|p2=Squishy74|p2flag=north america
+|p3=Dragontokill|p3flag=north america
+}}
+{{TeamCard columns end}}
+
+==Group B : Participants==
+{{TeamCardToggleButton|playerinfo=true|tcht=215}}
+{{TeamCard columns start|cols=6}}
+{{TeamCard|players=3
+|team=The Berzerkers
+|p1=Anon|p1flag=north america
+|p2=Cranos|p2flag=north america
+|p3=RecursiveMighty|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=Swingset Street Representatives
+|p1=SpiceeKimchee|p1flag=north america
+|p2=AdaptiveElk|p2flag=north america
+|p3=Sunfish|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=LeandriL Never Falls
+|p1=Vdecron ttv|p1flag=north america
+|p2=Squid|p2flag=north america
+|p3=Virky|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=DOG
+|p1=Gemi|p1flag=north america
+|p2=Sleepy Rowlet|p2flag=north america
+|p3=ParkInja|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=ArKhangels
+|p1=Anointed|p1flag=north america
+|p2=Atalus|p2flag=north america
+|p3=toastypoptart|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=ToxicGamingEsports
+|p1=MikeyB|p1flag=north america
+|p2=DoctorPixel|p2flag=north america
+|p3=WhatMachine|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=
+|p1=|p1flag=north america
+|p2=|p2flag=north america
+|p3=|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=
+|p1=|p1flag=north america
+|p2=|p2flag=north america
+|p3=|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=
+|p1=|p1flag=north america
+|p2=|p2flag=north america
+|p3=|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=
+|p1=|p1flag=north america
+|p2=|p2flag=north america
+|p3=|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=
+|p1=|p1flag=north america
+|p2=|p2flag=north america
+|p3=|p3flag=north america
+}}
+{{TeamCard|players=3
+|team=
+|p1=|p1flag=north america
+|p2=|p2flag=north america
+|p3=|p3flag=north america
+}}
+{{TeamCard columns end}}
+
+==Finals : Results==
+{{Bracket|Bracket/2|id=SNSNAOCT01
+
+<!-- Grand Final -->
+|R1M1={{Match|finished=true
+    |p_kill=1 |p1=20 |p2=15 |p3=12 |p4=10 |p5=8 |p6=6 |p7=4 |p8=3 |p9=2 |p10=1 |p11=0 |p12=0
+    |twitch=|youtube=
+    |opponent1={{TeamOpponent|The Last Door			|score=167}}
+    |opponent2={{TeamOpponent|BAP				|score=150}}
+    |opponent3={{TeamOpponent|LC				|score=119}}
+    |opponent4={{TeamOpponent|BAN				|score=102}}
+    |opponent5={{TeamOpponent|COW				|score=83}}
+    |opponent6={{TeamOpponent|Januaru			|score=55}}
+    |opponent7={{TeamOpponent|LeandriL Never Falls	|score=39}}
+    |opponent8={{TeamOpponent|Built Different Entirely	|score=38}}
+    |opponent9={{TeamOpponent|HYD				|score=37}}
+    |opponent10={{TeamOpponent|SQA				|score=28}}
+	|opponent11={{TeamOpponent|DOG				|score=16}}
+	|opponent12={{TeamOpponent|QA				|score=16}}
+}}
+}}
+
+==Broadcast==
+
+===Streams===
+{{Streams|title=Primary
+|lang1=uk |twitch1=theorycraftgames
+}}
+
+===Broadcast Talent===
+{{Tabs dynamic|name1=NA|This=1|hide-showall=true}}
+{{Tabs dynamic/tab|1}}
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Host
+|b1=TBD
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Caster
+|b1=TBD
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Observer
+|b1=TBD
+}}
+{{box|end}}
+
+{{Tabs dynamic/end}}
+
+==Additional Data==
+
+===Country Representation===
+{{Country representation|staff=true}}

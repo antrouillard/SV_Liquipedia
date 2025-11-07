@@ -1,0 +1,134 @@
+{{DISPLAYTITLE:SNS EU #3 Group Stage}}
+{{Tabs static
+|name1=Overview |link1=SUPERVIVE/SNS/EU/November/2
+|name2=Group Stage |link2=SUPERVIVE/SNS/EU/November/2/Group_Stage
+|name3=Finals |link3=SUPERVIVE/SNS/EU/November/2/Finals
+}}
+{{HiddenDataBox
+|liquipediatier=2
+|name=Saturday Night Supervive EU #3 Group Stage
+|tickername=SNS EU #3 GS
+|shortname=SNS EU #3 GS
+|image=SNS_Logo_Moon.png
+|imagedark=
+|icon=
+|date=07/11/2025
+}}
+==Format==
+<section begin="Format"/>
+* '''Group Stage:''' ''November 7th''
+** 19 teams of 3 will be split into 2 groups of 12 teams each.
+** Each team will play 4 games in the ''Group Stage''.
+** After the stage, 12 teams will advance to the ''Finals'' based off their scores of the ''Group Stage'':
+*** {{bgcolortext|stayup|Top 7 teams}} of Group A will advance to the ''Finals''.
+*** {{bgcolortext|staydown|Bottom 5 teams}} of Group A move to Group B.
+*** {{bgcolortext|stayup|Top 5 teams}} of Group B will advance to the ''Finals''.
+*** {{bgcolortext|staydown|Bottom 7 teams}} of Group B are eliminated.
+<section end="Format"/>
+
+==Group Draw==
+<center><small>{{LPDB storage|false}}
+<section begin="Groups"/>
+{| class="wikitable" style="text-align:left; margin-top: 0px;"
+|-
+!width=300px|Group A
+!width=300px|Group B
+|-
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|-
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|-
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|-
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|-
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|-
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|-
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|-
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|-
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|-
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|-
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|-
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|width=300px|{{Flag|eu}}{{Team|TBD}}
+|-
+|}
+{{LPDB storage|true}}</small></center>
+<section end="Groups"/>
+
+==Group Stage==
+{{Tabs dynamic
+|name1=Group Stage
+|name2=Overall Standings
+|This=2
+}}
+{{Tabs dynamic/tab|1}}
+{{Matchlist|id=SNSEUGRP03
+|M1header=GROUP A
+|M2header=GROUP B
+|M1={{Match|finished=0
+    |p_kill=1 |p1=20 |p2=15 |p3=12 |p4=10 |p5=8 |p6=6 |p7=4 |p8=3 |p9=2 |p10=1 |p11=0 |p12=0
+    |twitch=madmagical|youtube=
+    |opponent1={{TeamOpponent|TBD}}
+    |opponent2={{TeamOpponent|TBD}}
+    |opponent3={{TeamOpponent|TBD}}
+    |opponent4={{TeamOpponent|TBD}}
+    |opponent5={{TeamOpponent|TBD}}
+    |opponent6={{TeamOpponent|TBD}}
+    |opponent7={{TeamOpponent|TBD}}
+    |opponent8={{TeamOpponent|TBD}}
+    |opponent9={{TeamOpponent|TBD}}
+    |opponent10={{TeamOpponent|TBD}}
+    |opponent11={{TeamOpponent|TBD}}
+    |opponent12={{TeamOpponent|TBD}}
+}}
+|M2={{Match|finished=0
+    |p_kill=1 |p1=20 |p2=15 |p3=12 |p4=10 |p5=8 |p6=6 |p7=4 |p8=3 |p9=2 |p10=1 |p11=0 |p12=0
+    |twitch=madmagical|youtube=
+    |opponent1={{TeamOpponent|TBD}}
+    |opponent2={{TeamOpponent|TBD}}
+    |opponent3={{TeamOpponent|TBD}}
+    |opponent4={{TeamOpponent|TBD}}
+    |opponent5={{TeamOpponent|TBD}}
+    |opponent6={{TeamOpponent|TBD}}
+    |opponent7={{TeamOpponent|TBD}}
+    |opponent8={{TeamOpponent|TBD}}
+    |opponent9={{TeamOpponent|TBD}}
+    |opponent10={{TeamOpponent|TBD}}
+	|opponent11={{TeamOpponent|TBD}}
+	|opponent12={{TeamOpponent|TBD}}
+}}
+}}
+{{Tabs dynamic/tab|2}}
+{{box|start|padding=2em}}
+<section begin="Results"/>
+{{FfaStandings|title=Group Stage Standings
+|bg=1-10=up, 11=down, 12-13=up, 14-40=down
+<!-- Rounds -->
+|round1={{Round|matches=SNSEUGRP03_0001,SNSEUGRP03_0002|started=0|finished=0}}
+}}<section end="Results"/>
+{{box|break|padding=2em}}<br />
+{{Legend|up=1|down=1
+|uptitle=Advanced to '''[[SUPERVIVE/SNS/EU/November/2/Finals|Finals]]'''
+|downtitle=Eliminated
+}}
+{{box|end|padding=2em}}
+{{Tabs dynamic/end}}

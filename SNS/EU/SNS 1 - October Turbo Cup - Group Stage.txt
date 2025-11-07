@@ -1,0 +1,133 @@
+{{DISPLAYTITLE:SNS EU #1 Group Stage}}
+{{Tabs static
+|name1=Overview |link1=SUPERVIVE/SNS/EU/October
+|name2=Group Stage |link2=SUPERVIVE/SNS/EU/October/Group_Stage
+|name3=Finals |link3=SUPERVIVE/SNS/EU/October/Finals
+}}
+{{HiddenDataBox
+|liquipediatier=2
+|name=Saturday Night Supervive #1 Group Stage 
+|tickername=SNS EU #1 GS
+|shortname=SNS EU #1 GS
+|image=SUPERVIVE logo glow lightmode.png
+|imagedark=SUPERVIVE logo glow darkmode.png
+|icon=
+|date=24/10/2025
+}}
+==Format==
+<section begin="Format"/>
+* '''Group Stage:''' ''October 24th''
+** 24 teams of 3 will be split into 2 even groups of 12 teams each.
+** Each team will play 6 games in the ''Group Stage''.
+** After the stage, 12 teams will advance to the ''Finals'' based off their scores of the ''Group Stage'':
+*** {{bgcolortext|stayup|Top X teams}} of each group will advance to the ''Finals''.
+*** {{bgcolortext|staydown|Bottom X teams}} of each group are eliminated.
+<section end="Format"/>
+
+==Group Draw==
+<center><small>{{LPDB storage|false}}
+<section begin="Groups"/>
+{| class="wikitable" style="text-align:left; margin-top: 0px;"
+|-
+!width=300px|Group A
+!width=300px|Group B
+|-
+|width=300px|{{Flag|eu}}{{Team|3 Little Pigs}}
+|width=300px|{{Flag|de}}{{Team|Abyss Trinity}}
+|-
+|width=300px|{{Flag|eu}}{{Team|Apex Hunters}}
+|width=300px|{{Flag|fr}}{{Team|BAO}}
+|-
+|width=300px|{{Flag|eu}}{{Team|Aurora}}
+|width=300px|{{Flag|eu}}{{Team|Griefing Group}}
+|-
+|width=300px|{{Flag|eu}}{{Team|Employement Victims}}
+|width=300px|{{Flag|fr}}{{Team|AGRESSION MAX}}
+|-
+|width=300px|{{Flag|eu}}{{Team|First Line Front}}
+|width=300px|{{Flag|eu}}{{Team|HAT SOUP COUP}}
+|-
+|width=300px|{{Flag|eu}}{{Team|Stormbreakers}}
+|width=300px|{{Flag|eu}}{{Team|MST200}}
+|-
+|width=300px|{{Flag|fr}}{{Team|Pure chèvre}}
+|width=300px|{{Flag|fr}}{{Team|Meta Slave}}
+|-
+|width=300px|{{Flag|eu}}{{Team|Steady Momentum}}
+|width=300px|{{Flag|fr}}{{Team|Pu Des Pieds}}
+|-
+|width=300px|{{Flag|eu}}{{Team|TwoTaps}}
+|width=300px|{{Flag|fr}}{{Team|Racoons And Baguette}}
+|-
+|width=300px|{{Flag|eu}}{{Team|Underdog Protocol}}
+|width=300px|{{Flag|eu}}{{Team|RATATA}}
+|-
+|width=300px|{{Flag|fr}}{{Team|Wipe And Flex}}
+|width=300px|{{Flag|eu}}{{Team|RUE}}
+|-
+|width=300px|{{Flag|eu}}{{Team|Well}}
+|width=300px|{{Flag|eu}}{{Team|The Shys}}
+|-
+|}
+{{LPDB storage|true}}</small></center>
+<section end="Groups"/>
+
+==Group Stage==
+{{Tabs dynamic
+|name1=Group Stage
+|name2=Overall Standings
+|This=2
+}}
+<!--Overall Standing-->
+{{Tabs dynamic/tab|1}}	
+{{Matchlist|id=SNSEUGRP01
+|M1header=GROUP A
+|M2header=GROUP B
+|M1={{Match|finished=1
+    |p_kill=1 |p1=20 |p2=15 |p3=12 |p4=10 |p5=8 |p6=6 |p7=4 |p8=3 |p9=2 |p10=1 |p11=0 |p12=0
+    |twitch=madmagical|youtube=
+    |opponent1={{TeamOpponent|3 little pigs			|score=92}}
+    |opponent2={{TeamOpponent|Apex Hunters			|score=73}}
+    |opponent3={{TeamOpponent|Aurora				|score=51}}
+    |opponent4={{TeamOpponent|Employement Victims	|score=9}}
+    |opponent5={{TeamOpponent|First Line Front		|score=11}}
+    |opponent6={{TeamOpponent|Stormbreakers			|score=92}}
+    |opponent7={{TeamOpponent|Pure chèvre			|score=49}}
+    |opponent8={{TeamOpponent|Steady Momentum		|score=44}}
+    |opponent9={{TeamOpponent|TwoTaps				|score=17}}
+    |opponent10={{TeamOpponent|Underdog Protocol	|score=31}}
+	|opponent11={{TeamOpponent|Wipe And Flex		|score=94}}
+	|opponent12={{TeamOpponent|Well					|score=14}}
+}}
+|M2={{Match|finished=1
+    |p_kill=1 |p1=20 |p2=15 |p3=12 |p4=10 |p5=8 |p6=6 |p7=4 |p8=3 |p9=2 |p10=1 |p11=0 |p12=0
+    |twitch=madmagical|youtube=
+    |opponent1={{TeamOpponent|Abyss Trinity			|score=32}}
+    |opponent2={{TeamOpponent|BAO					|score=92}}
+    |opponent3={{TeamOpponent|Griefing Group		|score=3}}
+    |opponent4={{TeamOpponent|AGRESSION MAX			|score=40}}
+    |opponent5={{TeamOpponent|HAT SOUP COUP			|score=24}}
+    |opponent6={{TeamOpponent|MST200				|score=79}}
+    |opponent7={{TeamOpponent|Meta Slave			|score=15}}
+    |opponent8={{TeamOpponent|Pu Des Pieds			|score=17}}
+    |opponent9={{TeamOpponent|Racoons And Baguette	|score=29}}
+    |opponent10={{TeamOpponent|RATATA				|score=65}}
+	|opponent11={{TeamOpponent|RUE					|score=81}}
+	|opponent12={{TeamOpponent|The Shys				|score=56}}
+}}
+}}
+{{Tabs dynamic/tab|2}}<!--- Round 1 --->
+{{box|start|padding=2em}}
+<section begin="Results"/>
+{{FfaStandings|title=Group Stage Standings
+|bg=1-11=up, 12=down, 13=up, 14-40=down
+<!-- Rounds -->
+|round1={{Round|title=GROUP A|matches=SNSEUGRP01_0001,SNSEUGRP01_0002|started=1|finished=1}}
+}}<section end="Results"/>
+{{box|break|padding=2em}}<br />
+{{Legend|up=1|down=1
+|uptitle=Advanced to '''[[SUPERVIVE/SNS/EU/October/Finals|Finals]]'''
+|downtitle=Eliminated
+}}
+{{box|end|padding=2em}}
+{{Tabs dynamic/end}}

@@ -1,0 +1,336 @@
+{{DISPLAYTITLE:Saturday Night Supervive EU #2 (Tier 1)}}
+{{Tabs static
+|name1=Overview |link1=SUPERVIVE/SNS/EU/November/1
+|name2=Group Stage |link2=SUPERVIVE/SNS/EU/November/1/Group_Stage
+|name3=Finals |link3=SUPERVIVE/SNS/EU/November/1/Finals
+}}
+{{Infobox league
+|name=Saturday Night Supervive EU #2 (Tier 1)
+|tickername=Saturday Night Supervive EU #2 (Tier 1)
+|shortname=SNS EU #2 (T1)
+|image=SNS_Logo_Moon.png
+|imagedark=
+|type=Online
+|country=eu
+|sponsor=TheoryCraft Games
+|series=Saturday Night Vive
+|organizer=
+|organizer2=
+|sdate=2025-10-31
+|edate=2025-11-01
+|prizepoolusd=500$
+|twitch=theorycraftgames
+|discord=mQSZsGzFHP
+|team_number=24
+|liquipediatier=3
+|map1=Skylands
+}}
+
+===Format===
+<section begin="Format"/>
+====Group Stage====
+* '''Group Stage:''' ''October 31st''
+** 19 teams of 3 will be split into 2 groups of 12 teams each : 
+*** Group A has the top seeded teams to allow them two chances of qualification to ''Finals''
+**** {{bgcolortext|stayup|Top 7 teams}} of Group A will advance to the ''Finals''.
+**** {{bgcolortext|staydown|Bottom 5 teams}} of Group A go fill Group B.
+*** Group B has the lowest seeded teams.
+**** {{bgcolortext|stayup|Top 5 teams}} of Group B will advance to the ''Finals''.
+**** {{bgcolortext|staydown|Bottom 7 teams}} are eliminated.
+** Each team will play 4 games in the ''Group Stage''.
+** After the stage, 12 teams will advance to the ''Finals'' based off their scores in the ''Group Stage'':
+
+* See ''[[SUPERVIVE/SNS/EU/November/1/Group_Stage|Group Stage]]'' tab for Group Draw, Standings, and Match Results.
+
+====Finals====
+* '''Finals:''' ''November 1st''
+** The 12 remaining teams will play 6 games to compete for the first place in scores.
+* See ''[[SUPERVIVE/SNS/EU/November/1/Finals|Finals]]'' tab for Match Results.
+<section end="Format"/>
+====Scoring System====
+* Tiebreakers : the team with more total placement points ; otherwise, the team with more points before the last game
+
+* <span class="mw-customtoggle-Seeding">''Click here to show the Scoring System.''</span>
+<div class="table-responsive">
+<div class="toccolours mw-collapsible mw-collapsed" id="mw-customcollapsible-Seeding" style="width:500px; margin-left:45px">
+{| class="wikitable"
+|-
+!style="width:5em;text-align:center" | Top
+!style="width:7em" | placement points
+|-
+|style="text-align: center;" |1st
+|style="text-align: center;" |20
+|-
+|style="text-align: center;" |2nd
+|style="text-align: center;" |15
+|-
+|style="text-align: center;" |3rd
+|style="text-align: center;" |12
+|-
+|style="text-align: center;" |4th
+|style="text-align: center;" |10
+|-
+|style="text-align: center;" |5th
+|style="text-align: center;" |8
+|-
+|style="text-align: center;" |6th
+|style="text-align: center;" |6
+|-
+|style="text-align: center;" |7th 
+|style="text-align: center;" |4
+|-
+|style="text-align: center;" |8th 
+|style="text-align: center;" |3
+|-
+|style="text-align: center;" |9th
+|style="text-align: center;" |2
+|-
+|style="text-align: center;" |10th
+|style="text-align: center;" |1
+|-
+|style="text-align: center;" |11th
+|style="text-align: center;" |0
+|-
+|style="text-align: center;" |12th
+|style="text-align: center;" |0
+|-
+|}
+{| class="wikitable"
+|-
+!style="width:5em;text-align:center" | Kill Points
+|style="text-align: center;" |1<sup>*</sup>
+|-
+|}
+<sup>*</sup> Kills are awarded to the assailant player who last damaged the target player upon full death to player box state.
+</div></div>
+
+===Prize Pool===
+{{TeamPrizePool
+|{{Slot|usdprize=500|{{Opponent|BAO}}}}
+|{{Slot|usdprize=|{{Opponent|3 Little Pigs}}}}
+|{{Slot|usdprize=|{{Opponent|RATATA}}}}
+|{{Slot|{{Opponent|TSM}}}}
+|{{Slot|{{Opponent|Wipe and Flex}}}}
+|{{Slot|{{Opponent|Aurora}}}}
+|{{Slot|{{Opponent|MST200}}}}
+|{{Slot|{{Opponent|Bring Back Brushwackers}}}}
+|{{Slot|{{Opponent|RUE}}}}
+|{{Slot|{{Opponent|Doom fan club}}}}
+|{{Slot|{{Opponent|The Shys}}}}
+|{{Slot|{{Opponent|Good Game}}}}
+}}
+
+==Group A : Participants==
+{{TeamCardToggleButton|playerinfo=true|tcht=215}}
+{{TeamCard columns start|cols=6}}
+{{TeamCard|players=3
+|team=3 Little Pigs
+|p1=Akalynx|p1flag=nl
+|p2=shroom|p2flag=se
+|p3=who dis|p3flag=dk
+}}
+{{TeamCard|players=3
+|team=Apex Hunters
+|p1=Vipero|p1flag=se
+|p2=Llz4rdof|p2flag=pl
+|p3=Rhapsodie|p3flag=fr
+}}
+{{TeamCard|players=3
+|team=Aurora
+|p1=gernninja|p1flag=de
+|p2=MrFluffyFish|p2flag=eu
+|p3=Sebyyy|p3flag=de
+}}
+{{TeamCard|players=3
+|team=BAO
+|p1=Birouf|p1flag=fr
+|p2=AshTTV|p2flag=fr
+|p3=TTV VzOrlando|p3flag=fr
+}}
+{{TeamCard|players=3
+|team=Bring Back Brushwackers
+|p1=Squaye|p1flag=fr
+|p2=Lev0thy|p2flag=fr
+|p3=Numa|p3flag=eu
+}}
+{{TeamCard|players=3
+|team=Employment Victims
+|p1=Levi|p1flag=eu
+|p2=CrOuch|p2flag=de
+|p3=Eclipse|p3flag=eu
+}}
+{{TeamCard|players=3
+|team=MST200
+|p1=Kuba|p1flag=pl
+|p2=Reval|p2flag=es
+|p3=Kalskinator|p3flag=pl
+}}
+{{TeamCard|players=3
+|team=RATATA
+|p1=Cookiesx66|p1flag=sk
+|p2=meckimeck|p2flag=de
+|p3=adamcar|p3flag=hu
+}}
+{{TeamCard|players=3
+|team=RUE
+|p1=FateStrikes|p1flag=dk
+|p2=TTV_yaserAQ|p2flag=eu
+|p3=Zodag|p3flag=eu
+}}
+{{TeamCard|players=3
+|team=The SHY
+|p1=Sprocainne|p1flag=uk
+|p2=Hachi|p2flag=nl
+|p3=Tom Kick|p3flag=no
+}}
+{{TeamCard|players=3
+|team=Team Steady Momentum
+|p1=blink|p1flag=hu
+|p2=LilMeap|p2flag=ro
+|p3=Spider-Brall|p3flag=eu
+}}
+{{TeamCard|players=3
+|team=Underdog Protocol
+|p1=SIX PAST NOON|p1flag=eu
+|p2=Kalcio|p2flag=es
+|p3=Khyaar|p3flag=eu
+}}
+{{TeamCard columns end}}
+
+==Group B : Participants==
+{{TeamCardToggleButton|playerinfo=true|tcht=215}}
+{{TeamCard columns start|cols=6}}
+{{TeamCard|players=3
+|team=Doom fan club
+|p1=Occo|p1flag=fr
+|p2=Døm|p2flag=fr
+|p3=Lumile_|p3flag=fr
+}}
+{{TeamCard|players=3
+|team=Good Game
+|p1=Greed|p1flag=eu
+|p2=Flaxili|p2flag=eu
+|p3=Courageous|p3flag=eu
+}}
+{{TeamCard|players=3
+|team=MetaSlave
+|p1=Doudzer|p1flag=fr
+|p2=TrepA|p2flag=fr
+|p3=Breeves|p3flag=fr
+}}
+{{TeamCard|players=3
+|team=Team Sunny
+|p1=Sunshine|p1flag=eu
+|p2=Orie|p2flag=eu
+|p3=Kronos|p3flag=eu
+}}
+{{TeamCard|players=3
+|team=Amogus
+|p1=Hunger212121|p1flag=eu
+|p2=Zeolade|p2flag=eu
+|p3=Spore|p3flag=eu
+}}
+{{TeamCard|players=3
+|team=Trigger warning
+|p1=little timmy|p1flag=eu
+|p2=081|p2flag=eu
+|p3=Thor|p3flag=eu
+}}
+{{TeamCard|players=3
+|team=Wipe and Flex
+|p1=Shichi|p1flag=fr
+|p2=LE SMOLDE|p2flag=fr
+|p3=ViviePuppiesMerchPls|p3flag=fr
+}}
+{{TeamCard|players=3
+|team=Bring Back Brushwackers
+|p1=Squaye|p1flag=fr
+|p2=Lev0thy|p2flag=fr
+|p3=Numa|p3flag=eu
+}}
+{{TeamCard|players=3
+|team=RUE
+|p1=FateStrikes|p1flag=dk
+|p2=TTV_yaserAQ|p2flag=eu
+|p3=Zodag|p3flag=eu
+}}
+{{TeamCard|players=3
+|team=Apex Hunters
+|p1=Vipero|p1flag=se
+|p2=Llz4rdof|p2flag=pl
+|p3=Rhapsodie|p3flag=fr
+}}
+{{TeamCard|players=3
+|team=Employment Victims
+|p1=Levi|p1flag=eu
+|p2=CrOuch|p2flag=de
+|p3=Eclipse|p3flag=eu
+}}
+{{TeamCard|players=3
+|team=Underdog Protocol
+|p1=SIX PAST NOON|p1flag=eu
+|p2=Kalcio|p2flag=es
+|p3=Khyaar|p3flag=eu
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/2|id=SNSEUNOV01
+
+<!-- Grand Final -->
+|R1M1={{Match|finished=true
+	|p_kill=1
+	|twitch=|youtube=
+	|opponent1={{TeamOpponent|BAO                    |score=136}}
+	|opponent2={{TeamOpponent|The Shys               |score=29}}
+	|opponent3={{TeamOpponent|Aurora                 |score=69}}
+	|opponent4={{TeamOpponent|3 Little Pigs          |score=126}}
+	|opponent5={{TeamOpponent|TSM                    |score=86}}
+	|opponent6={{TeamOpponent|RATATA                 |score=119}}
+	|opponent7={{TeamOpponent|MST200                 |score=62}}
+	|opponent8={{TeamOpponent|RUE                    |score=50}}
+	|opponent9={{TeamOpponent|Wipe and Flex          |score=84}}
+	|opponent10={{TeamOpponent|Bring Back Brushwackers|score=57}}
+	|opponent11={{TeamOpponent|Doom fan club         |score=35}}
+	|opponent12={{TeamOpponent|Good Game             |score=17}}
+}}
+}}
+
+==Broadcast==
+
+===Streams===
+{{Streams|title=Group Stage / Finals
+|lang1=uk |twitch1=madmagical
+|lang2=uk |twitch2=theorycraftgames
+}}
+
+===Broadcast Talent===
+{{Tabs dynamic|name1=EU|This=1|hide-showall=true}}
+{{Tabs dynamic/tab|1}}
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Host
+|b1=MadMagical
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Caster
+|b1=MadMagical
+|stream=https://twitch.tv/madmagical
+|b2=Shivam
+|b3=Zikorik
+|b4=Tsunani
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Observer
+|b1=MadMagical
+}}
+{{box|end}}
+
+{{Tabs dynamic/end}}
+
+==Additional Data==
+
+===Country Representation===
+{{Country representation|staff=true}}

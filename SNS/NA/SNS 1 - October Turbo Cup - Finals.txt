@@ -1,0 +1,43 @@
+{{DISPLAYTITLE:SNS NA #1 Finals}}
+{{Tabs static
+|name1=Overview |link1=SUPERVIVE/SNS/NA/October
+|name2=Group Stage |link2=SUPERVIVE/SNS/NA/October/Group_Stage
+|name3=Finals |link3=SUPERVIVE/SNS/NA/October/Finals
+}}
+{{HiddenDataBox
+|liquipediatier=2
+|name=Saturday Night Vive NA #1 Finals
+|tickername=SNS NA #1  FN
+|shortname=SNS NA #1  FN
+|image=
+|icon=
+|sdate=2025-10-25
+|edate=2025-10-25
+}}
+==Format==
+<section begin="Format"/>
+* '''Finals:''' ''October 25th''
+** The 12 remaining teams will play 6 games to compete for the first place in scores.
+<section end="Format"/>
+
+==Results==
+{{Bracket|Bracket/2|id=SNSNAFNS01
+
+<!-- Grand Final -->
+|R1M1={{Match|finished=true
+    |p_kill=1 |p1=20 |p2=15 |p3=12 |p4=10 |p5=8 |p6=6 |p7=4 |p8=3 |p9=2 |p10=1 |p11=0 |p12=0
+    |twitch=|youtube=
+    |opponent1={{TeamOpponent|The Last Door			|score=167}}
+    |opponent2={{TeamOpponent|BAP				|score=150}}
+    |opponent3={{TeamOpponent|LC				|score=119}}
+    |opponent4={{TeamOpponent|BAN				|score=102}}
+    |opponent5={{TeamOpponent|COW				|score=83}}
+    |opponent6={{TeamOpponent|Januaru			|score=55}}
+    |opponent7={{TeamOpponent|LeandriL Never Falls	|score=39}}
+    |opponent8={{TeamOpponent|Built Different Entirely	|score=38}}
+    |opponent9={{TeamOpponent|HYD				|score=37}}
+    |opponent10={{TeamOpponent|SQA				|score=28}}
+	|opponent11={{TeamOpponent|DOG				|score=16}}
+	|opponent12={{TeamOpponent|QA				|score=16}}
+}}
+}}

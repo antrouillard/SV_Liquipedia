@@ -1,0 +1,133 @@
+{{DISPLAYTITLE:SNS NA #1 Group Stage}}
+{{Tabs static
+|name1=Overview |link1=SUPERVIVE/SNS/NA/October
+|name2=Group Stage |link2=SUPERVIVE/SNS/NA/October/Group_Stage
+|name3=Finals |link3=SUPERVIVE/SNS/NA/October/Finals
+}}
+{{HiddenDataBox
+|liquipediatier=2
+|name=Saturday Night Supervive #1 Group Stage 
+|tickername=SNS NA #1 GS
+|shortname=SNS NA #1 GS
+|image=SUPERVIVE logo glow lightmode.png
+|imagedark=SUPERVIVE logo glow darkmode.png
+|icon=
+|date=24/10/2025
+}}
+==Format==
+<section begin="Format"/>
+* '''Group Stage:''' ''October 24th''
+** X teams of 3 will be split into X even groups of 12 teams each.
+** Each team will play 6 games in the ''Group Stage''.
+** After the stage, 12 teams will advance to the ''Finals'' based off their scores of the ''Group Stage'':
+*** {{bgcolortext|stayup|Top X teams}} of each group will advance to the ''Finals''.
+*** {{bgcolortext|staydown|Bottom X teams}} of each group are eliminated.
+<section end="Format"/>
+
+==Group Draw==
+<center><small>{{LPDB storage|false}}
+<section begin="Groups"/>
+{| class="wikitable" style="text-align:left; margin-top: 0px;"
+|-
+!width=300px|Group A
+!width=300px|Group B
+|-
+|width=300px|{{Flag|north america}}{{Team|BAP}}
+|width=300px|{{Flag|north america}}{{Team|The Berzerkers}}
+|-
+|width=300px|{{Flag|north america}}{{Team|The Last Door}}
+|width=300px|{{Flag|north america}}{{Team|Swingset Street Representatives}}
+|-
+|width=300px|{{Flag|north america}}{{Team|LC}}
+|width=300px|{{Flag|north america}}{{Team|LeandriL Never Falls}}
+|-
+|width=300px|{{Flag|north america}}{{Team|BAN}}
+|width=300px|{{Flag|north america}}{{Team|DOG}}
+|-
+|width=300px|{{Flag|north america}}{{Team|COW}}
+|width=300px|{{Flag|north america}}{{Team|ArKhangels}}
+|-
+|width=300px|{{Flag|north america}}{{Team|Januaru}}
+|width=300px|{{Flag|north america}}{{Team|ToxicGamingEsports}}
+|-
+|width=300px|{{Flag|north america}}{{Team|QA}}
+|width=300px|{{Flag|north america}}{{Team|}}
+|-
+|width=300px|{{Flag|north america}}{{Team|Built Different Entirely}}
+|width=300px|{{Flag|north america}}{{Team|}}
+|-
+|width=300px|{{Flag|north america}}{{Team|HYD}}
+|width=300px|{{Flag|north america}}{{Team|}}
+|-
+|width=300px|{{Flag|north america}}{{Team|Supervive Aristocracy}}
+|width=300px|{{Flag|north america}}{{Team|}}
+|-
+|width=300px|{{Flag|north america}}{{Team|SQA}}
+|width=300px|{{Flag|north america}}{{Team|}}
+|-
+|width=300px|{{Flag|north america}}{{Team|SadBoyz}}
+|width=300px|{{Flag|north america}}{{Team|}}
+|-
+|}
+{{LPDB storage|true}}</small></center>
+<section end="Groups"/>
+
+==Group Stage==
+{{Tabs dynamic
+|name1=Group Stage
+|name2=Overall Standings
+|This=2
+}}
+<!--Overall Standing-->
+{{Tabs dynamic/tab|1}}	
+{{Matchlist|id=SNSNAGRP01
+|M1header=GROUP A
+|M2header=GROUP B
+|M1={{Match|finished=1
+    |p_kill=1 |p1=20 |p2=15 |p3=12 |p4=10 |p5=8 |p6=6 |p7=4 |p8=3 |p9=2 |p10=1 |p11=0 |p12=0
+    |twitch=theorycraftgames|youtube=
+    |opponent1={{TeamOpponent|COW|score=91}}
+    |opponent2={{TeamOpponent|LC|score=88}}
+    |opponent3={{TeamOpponent|The Last Door|score=83}}
+    |opponent4={{TeamOpponent|BAN|score=73}}
+    |opponent5={{TeamOpponent|BAP|score=72}}
+    |opponent6={{TeamOpponent|Built Different Entirely|score=48}}
+    |opponent7={{TeamOpponent|QA|score=27}}
+    |opponent8={{TeamOpponent|Januaru|score=17}}
+    |opponent9={{TeamOpponent|SQA|score=15}}
+    |opponent10={{TeamOpponent|HYD|score=13}}
+    |opponent11={{TeamOpponent|Supervive Aristocracy|score=11}}
+    |opponent12={{TeamOpponent|SadBoyz|score=2}}
+}}
+|M2={{Match|finished=1
+    |p_kill=1 |p1=20 |p2=15 |p3=12 |p4=10 |p5=8 |p6=6 |p7=4 |p8=3 |p9=2 |p10=1 |p11=0 |p12=0
+    |twitch=theorycraftgames|youtube=
+    |opponent1={{TeamOpponent|HYD|score=118}}
+    |opponent2={{TeamOpponent|Januaru|score=83}}
+    |opponent3={{TeamOpponent|SQA|score=74}}
+    |opponent4={{TeamOpponent|DOG|score=54}}
+    |opponent5={{TeamOpponent|QA|score=53}}
+    |opponent6={{TeamOpponent|LeandriL Never Falls|score=43}}
+    |opponent7={{TeamOpponent|ArKhangels|score=37}}
+    |opponent8={{TeamOpponent|Supervive Aristocracy|score=35}}
+    |opponent9={{TeamOpponent|Swingset Street Representatives|score=32}}
+    |opponent10={{TeamOpponent|SadBoyz|score=18}}
+    |opponent11={{TeamOpponent|The Berzerkers|score=11}}
+    |opponent12={{TeamOpponent|ToxicGamingEsports|score=4}}
+}}
+}}
+{{Tabs dynamic/tab|2}}<!--- Round 1 --->
+{{box|start|padding=2em}}
+<section begin="Results"/>
+{{FfaStandings|title=Group Stage Standings
+|bg=1-11=up, 12=down, 13=up, 14-40=down
+<!-- Rounds -->
+|round1={{Round|title=GROUP A|matches=SNSNAGRP01_0001,SNSNAGRP01_0002|started=1|finished=1}}
+}}<section end="Results"/>
+{{box|break|padding=2em}}<br />
+{{Legend|up=1|down=1
+|uptitle=Advanced to '''[[SUPERVIVE/SNS/NA/October/Finals|Finals]]'''
+|downtitle=Eliminated
+}}
+{{box|end|padding=2em}}
+{{Tabs dynamic/end}}

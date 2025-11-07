@@ -1,0 +1,82 @@
+{{DISPLAYTITLE:SNS EU #2 Finals}}
+{{Tabs static
+|name1=Overview |link1=SUPERVIVE/SNS/EU/November/1
+|name2=Group Stage |link2=SUPERVIVE/SNS/EU/November/1/Group_Stage
+|name3=Finals |link3=SUPERVIVE/SNS/EU/November/1/Finals
+}}
+{{HiddenDataBox
+|liquipediatier=3
+|name=Saturday Night Supervive EU #2 Finals
+|tickername=SNS EU #2 FN
+|shortname=SNS EU #2 FN
+|image=
+|icon=
+|sdate=2025-11-01
+|edate=2025-11-01
+}}
+==Format==
+<section begin="Format"/>
+* '''Finals:''' ''November 1st''
+** The 12 remaining teams will play 6 games to compete for the first place in scores.
+<section end="Format"/>
+
+==Results==
+{{Bracket|Bracket/2|id=SNSEUNOV02
+
+<!-- Grand Final -->
+|R1M1={{Match|finished=1
+	|p_kill=1
+	|twitch=|youtube=
+	|opponent1={{TeamOpponent|BAO                    |score=136}}
+	|opponent2={{TeamOpponent|The Shys               |score=29}}
+	|opponent3={{TeamOpponent|Aurora                 |score=69}}
+	|opponent4={{TeamOpponent|3 Little Pigs          |score=126}}
+	|opponent5={{TeamOpponent|TSM                    |score=86}}
+	|opponent6={{TeamOpponent|RATATA                 |score=119}}
+	|opponent7={{TeamOpponent|MST200                 |score=62}}
+	|opponent8={{TeamOpponent|RUE                    |score=50}}
+	|opponent9={{TeamOpponent|Wipe and Flex          |score=84}}
+	|opponent10={{TeamOpponent|Bring Back Brushwackers|score=57}}
+	|opponent11={{TeamOpponent|Doom fan club         |score=35}}
+	|opponent12={{TeamOpponent|Good Game             |score=17}}
+}}
+}}
+
+==Broadcast==
+
+===Streams===
+{{Streams|title=Finals
+|lang1=uk |twitch1=madmagical
+|lang2=uk |twitch2=theorycraftgames
+}}
+
+===Broadcast Talent===
+{{Tabs dynamic|name1=EU|This=1|hide-showall=true}}
+{{Tabs dynamic/tab|1}}
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Host
+|b1=MadMagical
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Caster
+|b1=MadMagical
+|stream=https://twitch.tv/madmagical
+|b2=Shivam
+|b3=Zikorik
+|b4=Tsunani
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Observer
+|b1=MadMagical
+}}
+{{box|end}}
+
+{{Tabs dynamic/end}}
+
+==Additional Data==
+
+===Country Representation===
+{{Country representation|staff=true}}

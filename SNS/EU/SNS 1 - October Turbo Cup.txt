@@ -1,0 +1,330 @@
+{{DISPLAYTITLE:Saturday Night Supervive EU - Turbo Cup #1}}
+{{Tabs static
+|name1=Overview |link1=SUPERVIVE/SNS/EU/October
+|name2=Group Stage |link2=SUPERVIVE/SNS/EU/October/Group_Stage
+|name3=Finals |link3=SUPERVIVE/SNS/EU/October/Finals
+}}
+{{Infobox league
+|name=Saturday Night Supervive EU - Turbo Cup #1
+|tickername=Saturday Night Supervive EU - Turbo Cup #1
+|shortname=SNS EU - Turbo Cup #1
+|image=SNS_Logo_Moon.png
+|imagedark=
+|type=Online
+|country=eu
+|sponsor=TheoryCraft Games
+|series=Saturday Night Vive
+|organizer=
+|organizer2=
+|sdate=2025-10-24
+|edate=2025-10-25
+|prizepoolusd=2500$
+|twitch=theorycraftgames
+|discord=mQSZsGzFHP
+|team_number=24
+|liquipediatier=2
+|map1=Skylands
+}}
+
+===Format===
+<section begin="Format"/>
+====Group Stage====
+* '''Group Stage:''' ''October 24th''
+** 24 teams of 3 will be split into 2 even groups of 12 teams each.
+** Each team will play 4 games in the ''Group Stage''.
+** After the stage, 12 teams will advance to the ''Finals'' based off their scores in the ''Group Stage'':
+*** {{bgcolortext|stayup|Top 6 teams}} of each group will advance to the ''Finals''.
+*** {{bgcolortext|staydown|Bottom 6 teams}} of each group are eliminated.
+* See ''[[SUPERVIVE/SNS/EU/October/Group_Stage|Group Stage]]'' tab for Group Draw, Standings, and Match Results.
+====Finals====
+* '''Finals:''' ''October 25th''
+** The 12 remaining teams will play 6 games to compete for the first place in scores.
+* See ''[[SUPERVIVE/SNS/EU/October/Finals|Finals]]'' tab for Match Results.
+<section end="Format"/>
+====Scoring System====
+* Tiebreakers : the team with more total placement points ; otherwise, the team with more points before the last game
+
+* <span class="mw-customtoggle-Seeding">''Click here to show the Scoring System.''</span>
+<div class="table-responsive">
+<div class="toccolours mw-collapsible mw-collapsed" id="mw-customcollapsible-Seeding" style="width:500px; margin-left:45px">
+{| class="wikitable"
+|-
+!style="width:5em;text-align:center" | Top
+!style="width:7em" | placement points
+|-
+|style="text-align: center;" |1st
+|style="text-align: center;" |20
+|-
+|style="text-align: center;" |2nd
+|style="text-align: center;" |15
+|-
+|style="text-align: center;" |3rd
+|style="text-align: center;" |12
+|-
+|style="text-align: center;" |4th
+|style="text-align: center;" |10
+|-
+|style="text-align: center;" |5th
+|style="text-align: center;" |8
+|-
+|style="text-align: center;" |6th
+|style="text-align: center;" |6
+|-
+|style="text-align: center;" |7th 
+|style="text-align: center;" |4
+|-
+|style="text-align: center;" |8th 
+|style="text-align: center;" |3
+|-
+|style="text-align: center;" |9th
+|style="text-align: center;" |2
+|-
+|style="text-align: center;" |10th
+|style="text-align: center;" |1
+|-
+|style="text-align: center;" |11th
+|style="text-align: center;" |0
+|-
+|style="text-align: center;" |12th
+|style="text-align: center;" |0
+|-
+|}
+{| class="wikitable"
+|-
+!style="width:5em;text-align:center" | Kill Points
+|style="text-align: center;" |1<sup>*</sup>
+|-
+|}
+<sup>*</sup> Kills are awarded to the assailant player who last damaged the target player upon full death to player box state.
+</div></div>
+
+===Prize Pool===
+{{TeamPrizePool
+|{{Slot|usdprize=1350|{{Opponent|3 little pigs}}}}
+|{{Slot|usdprize=750|{{Opponent|Stormbreakers}}}}
+|{{Slot|usdprize=400|{{Opponent|RATATA}}}}
+|{{Slot|{{Opponent|BAO}}}}
+|{{Slot|{{Opponent|Wipe And Flex}}}}
+|{{Slot|{{Opponent|MST200}}}}
+|{{Slot|{{Opponent|RUE}}}}
+|{{Slot|{{Opponent|Pure Chèvre}}}}
+|{{Slot|{{Opponent|Aurora}}}}
+|{{Slot|{{Opponent|The Shys}}}}
+|{{Slot|{{Opponent|AGRESSION MAX}}}}
+|{{Slot|{{Opponent|Apex Hunters}}}}
+}}
+
+==Group A : Participants==
+{{TeamCardToggleButton|playerinfo=true|tcht=215}}
+{{TeamCard columns start|cols=6}}
+{{TeamCard|players=3
+|team=3 Little Pigs
+|p1=AidanBY|p1flag=uk
+|p2=Akalynx|p2flag=nl
+|p3=Shroom|p3flag=se
+}}
+{{TeamCard|players=3
+|team=Apex Hunters
+|p1=Vipero|p1flag=se
+|p2=L1z4rdo|p2flag=pl
+|p3=Rhapsodie|p3flag=fr
+}}
+{{TeamCard|players=3
+|team=Aurora
+|p1=gerninja|p1flag=de
+|p2=Sebyyy|p2flag=de
+|p3=Who dis|p3flag=dk
+}}
+{{TeamCard|players=3
+|team=Employement Victims
+|p1=MrIceT|p1flag=eu
+|p2=Levi|p2flag=eu
+|p3=CrOuch|p3flag=de
+}}
+{{TeamCard|players=3
+|team=First Line Front
+|p1=MariOnet|p1flag=eu
+|p2=J-raf|p2flag=eu
+|p3=Sparta|p3flag=eu
+}}
+{{TeamCard|players=3
+|team=Stormbreakers
+|p1=SHIN|p1flag=nl
+|p2=DetbareK|p2flag=dk
+|p3=gekko|p3flag=be
+}}
+{{TeamCard|players=3
+|team=Pure chèvre
+|p1=Occo|p1flag=fr
+|p2=Squaye|p2flag=fr
+|p3=Lev0thy|p3flag=fr
+}}
+{{TeamCard|players=3
+|team=Steady Momentum 
+|p1=LilMeap|p1flag=ro
+|p2=blink|p2flag=hu
+|p3=Treadzy|p3flag=uk
+}}
+{{TeamCard|players=3
+|team=TwoTaps
+|p1=Mimez|p1flag=es
+|p2=Amelia|p2flag=eu
+|p3=Baki|p3flag=eu
+}}
+{{TeamCard|players=3
+|team=Underdog Protocol
+|p1=SIX PAST NOON|p1flag=eu
+|p2=Syk Yr Void|p2flag=eu
+|p3=salamanderq|p3flag=eu
+}}
+{{TeamCard|players=3
+|team=Wipe And Flex
+|p1=Lurox|p1flag=fr
+|p2=Shichi|p2flag=fr
+|p3=Fantom|p3flag=fr
+}}
+{{TeamCard|players=3
+|team=Well
+|p1=xMiasm|p1flag=eu
+|p2=little timmy|p2flag=eu
+|p3=081|p3flag=eu
+}}
+{{TeamCard columns end}}
+
+==Group B : Participants==
+{{TeamCardToggleButton|playerinfo=true|tcht=215}}
+{{TeamCard columns start|cols=6}}
+{{TeamCard|players=3
+|team=Abyss Trinity
+|p1=Moawik|p1flag=de
+|p2=Crystall|p2flag=de
+|p3=ftiR|p3flag=de
+}}
+{{TeamCard|players=3
+|team=BAO
+|p1=Birouf|p1flag=fr
+|p2=Ash|p2flag=fr
+|p3=Orlandos|p3flag=fr
+}}
+{{TeamCard|players=3
+|team=Griefing Group
+|p1=Greed|p1flag=eu
+|p2=Flaxiii|p2flag=eu
+|p3=LOOPER|p3flag=eu
+}}
+{{TeamCard|players=3
+|team=AGRESSION MAX
+|p1=AGGRRRREEESSIIFFF|p1flag=fr
+|p2=Godefroy de Bouillon|p2flag=fr
+|p3=Wixxen|p3flag=fr
+}}
+{{TeamCard|players=3
+|team=HAT SOUP COUP
+|p1=RanterGMR|p1flag=fr
+|p2=catheist|p2flag=est
+|p3=milkhoney|p3flag=eu
+}}
+{{TeamCard|players=3
+|team=MST200
+|p1=Kuba|p1flag=pl
+|p2=Reval|p2flag=es
+|p3=Kalskinator|p3flag=pl
+}}
+{{TeamCard|players=3
+|team=Meta Slave
+|p1=Doudzer|p1flag=fr
+|p2=Breeves|p2flag=fr
+|p3=TrepA|p3flag=fr
+}}
+{{TeamCard|players=3
+|team=Pu Des Pieds
+|p1=FiiRee|p1flag=fr
+|p2=Kiki|p2flag=fr
+|p3=binouzedusoir|p3flag=fr
+}}
+{{TeamCard|players=3
+|team=Racoons And Baguette
+|p1=Minatoblizzard|p1flag=fr
+|p2=Chronoxios|p2flag=fr
+|p3=Lingo|p3flag=fr
+}}
+{{TeamCard|players=3
+|team=RATATA
+|p1=Cookiess66|p1flag=sk
+|p2=adamarc|p2flag=hu
+|p3=meckimeck|p3flag=de
+}}
+{{TeamCard|players=3
+|team=RUE
+|p1=FateStrikes|p1flag=dk
+|p2=Fuzu|p2flag=fr
+|p3=Kalcio|p3flag=es
+}}
+{{TeamCard|players=3
+|team=The Shys
+|p1=Sprocaine|p1flag=uk
+|p2=Hachi|p2flag=nl
+|p3=Tom Kick|p3flag=no
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/2|id=SNSEUOCT01
+
+<!-- Grand Final -->
+|R1M1={{Match|finished=true
+	|p_kill=1
+	|twitch=|youtube=
+	|opponent1={{TeamOpponent|Wipe And Flex			|score=69}}
+	|opponent2={{TeamOpponent|3 little pigs			|score=145}}
+	|opponent3={{TeamOpponent|Stormbreakers			|score=124}}
+	|opponent4={{TeamOpponent|BAO					|score=86}}
+	|opponent5={{TeamOpponent|RUE					|score=51}}
+	|opponent6={{TeamOpponent|MST200				|score=61}}
+	|opponent7={{TeamOpponent|Apex Hunters			|score=23}}
+	|opponent8={{TeamOpponent|The Shys				|score=44}}
+	|opponent9={{TeamOpponent|Aurora				|score=47}}
+	|opponent10={{TeamOpponent|Pure Chèvre			|score=48}} <!-- SUS -->
+	|opponent11={{TeamOpponent|AGRESSION MAX		|score=38}} <!-- GRR -->
+	|opponent12={{TeamOpponent|RATATA				|score=103}}
+}}
+}}
+
+==Broadcast==
+
+===Streams===
+{{Streams|title=Group Stage / Finals
+|lang1=uk |twitch1=madmagical
+|lang2=uk |twitch2=theorycraftgames
+}}
+
+===Broadcast Talent===
+{{Tabs dynamic|name1=EU|This=1|hide-showall=true}}
+{{Tabs dynamic/tab|1}}
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Host
+|b1=MadMagical
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Caster
+|b1=MadMagical
+|stream=https://twitch.tv/madmagical
+|b2=Shivam
+|b3=Zikorik
+|b4=Tsunani
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Observer
+|b1=MadMagical
+}}
+{{box|end}}
+
+{{Tabs dynamic/end}}
+
+==Additional Data==
+
+===Country Representation===
+{{Country representation|staff=true}}

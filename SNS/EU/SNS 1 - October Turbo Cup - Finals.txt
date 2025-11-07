@@ -1,0 +1,43 @@
+{{DISPLAYTITLE:SNS EU #1 Finals}}
+{{Tabs static
+|name1=Overview |link1=SUPERVIVE/SNS/EU/October
+|name2=Group Stage |link2=SUPERVIVE/SNS/EU/October/Group_Stage
+|name3=Finals |link3=SUPERVIVE/SNS/EU/October/Finals
+}}
+{{HiddenDataBox
+|liquipediatier=2
+|name=Saturday Night Vive EU #1 Finals
+|tickername=SNS EU #1  FN
+|shortname=SNS EU #1  FN
+|image=
+|icon=
+|sdate=2025-10-25
+|edate=2025-10-25
+}}
+==Format==
+<section begin="Format"/>
+* '''Finals:''' ''October 25th''
+** The 12 remaining teams will play 6 games to compete for the first place in scores.
+<section end="Format"/>
+
+==Results==
+{{Bracket|Bracket/2|id=SNSEUFNS01
+
+<!-- Grand Final -->
+|R1M1={{Match|finished=true
+	|p_kill=1
+	|twitch=|youtube=
+	|opponent1={{TeamOpponent|Wipe And Flex			|score=69}}
+	|opponent2={{TeamOpponent|3 little pigs			|score=145}}
+	|opponent3={{TeamOpponent|Stormbreakers			|score=124}}
+	|opponent4={{TeamOpponent|BAO					|score=86}}
+	|opponent5={{TeamOpponent|RUE					|score=51}}
+	|opponent6={{TeamOpponent|MST200				|score=61}}
+	|opponent7={{TeamOpponent|Apex Hunters			|score=23}}
+	|opponent8={{TeamOpponent|The Shys				|score=44}}
+	|opponent9={{TeamOpponent|Aurora				|score=47}}
+	|opponent10={{TeamOpponent|Pure Chèvre			|score=48}} <!-- SUS -->
+	|opponent11={{TeamOpponent|AGRESSION MAX		|score=38}} <!-- GRR -->
+	|opponent12={{TeamOpponent|RATATA				|score=103}}
+}}
+}}

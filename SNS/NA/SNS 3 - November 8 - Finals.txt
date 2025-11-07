@@ -1,0 +1,82 @@
+{{DISPLAYTITLE:SNS NA #3 Finals}}
+{{Tabs static
+|name1=Overview |link1=SUPERVIVE/SNS/NA/November/2
+|name2=Group Stage |link2=SUPERVIVE/SNS/NA/November/2/Group_Stage
+|name3=Finals |link3=SUPERVIVE/SNS/NA/November/2/Finals
+}}
+{{HiddenDataBox
+|liquipediatier=1
+|name=Saturday Night Supervive NA #3 Finals
+|tickername=SNS NA #3 FN
+|shortname=SNS NA #3 FN
+|image=
+|icon=
+|sdate=2025-11-08
+|edate=2025-11-08
+}}
+==Format==
+<section begin="Format"/>
+* '''Finals:''' ''November 8th''
+** The 12 remaining teams will play 6 games to compete for the first place in scores.
+<section end="Format"/>
+
+==Results==
+{{Bracket|Bracket/2|id=SNSNANOV03
+
+<!-- Grand Final -->
+|R1M1={{Match|finished=0
+	|p_kill=1
+	|twitch=|youtube=
+	|opponent1={{TeamOpponent|TBD}}
+	|opponent2={{TeamOpponent|TBD}}
+	|opponent3={{TeamOpponent|TBD}}
+	|opponent4={{TeamOpponent|TBD}}
+	|opponent5={{TeamOpponent|TBD}}
+	|opponent6={{TeamOpponent|TBD}}
+	|opponent7={{TeamOpponent|TBD}}
+	|opponent8={{TeamOpponent|TBD}}
+	|opponent9={{TeamOpponent|TBD}}
+	|opponent10={{TeamOpponent|TBD}}
+	|opponent11={{TeamOpponent|TBD}}
+	|opponent12={{TeamOpponent|TBD}}
+}}
+}}
+
+==Broadcast==
+
+===Streams===
+{{Streams|title=Finals
+|lang1=uk |twitch1=madmagical
+|lang2=uk |twitch2=theorycraftgames
+}}
+
+===Broadcast Talent===
+{{Tabs dynamic|name1=NA|This=1|hide-showall=true}}
+{{Tabs dynamic/tab|1}}
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Host
+|b1=MadMagical
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Caster
+|b1=MadMagical
+|stream=https://twitch.tv/madmagical
+|b2=Shivam
+|b3=Zikorik
+|b4=Tsunani
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Observer
+|b1=MadMagical
+}}
+{{box|end}}
+
+{{Tabs dynamic/end}}
+
+==Additional Data==
+
+===Country Representation===
+{{Country representation|staff=true}}
