@@ -20,8 +20,8 @@
 ** 24 teams of 3 will be split into 2 even groups of 12 teams each.
 ** Each team will play 6 games in the ''Group Stage''.
 ** After the stage, 12 teams will advance to the ''Finals'' based off their scores of the ''Group Stage'':
-*** {{bgcolortext|stayup|Top X teams}} of each group will advance to the ''Finals''.
-*** {{bgcolortext|staydown|Bottom X teams}} of each group are eliminated.
+*** {{bgcolortext|stayup|Top 6 teams}} of each group will advance to the ''Finals''.
+*** {{bgcolortext|staydown|Bottom 6 teams}} of each group are eliminated.
 <section end="Format"/>
 
 ==Group Draw==
@@ -77,6 +77,7 @@
 |name1=Group Stage
 |name2=Overall Standings
 |This=2
+|hide-showall=true
 }}
 <!--Overall Standing-->
 {{Tabs dynamic/tab|1}}	
@@ -85,35 +86,43 @@
 |M2header=GROUP B
 |M1={{Match|finished=1
     |p_kill=1 |p1=20 |p2=15 |p3=12 |p4=10 |p5=8 |p6=6 |p7=4 |p8=3 |p9=2 |p10=1 |p11=0 |p12=0
-    |twitch=madmagical|youtube=
-    |opponent1={{TeamOpponent|3 little pigs			|score=92}}
-    |opponent2={{TeamOpponent|Apex Hunters			|score=73}}
-    |opponent3={{TeamOpponent|Aurora				|score=51}}
-    |opponent4={{TeamOpponent|Employement Victims	|score=9}}
-    |opponent5={{TeamOpponent|First Line Front		|score=11}}
-    |opponent6={{TeamOpponent|Stormbreakers			|score=92}}
-    |opponent7={{TeamOpponent|Pure chèvre			|score=49}}
-    |opponent8={{TeamOpponent|Steady Momentum		|score=44}}
-    |opponent9={{TeamOpponent|TwoTaps				|score=17}}
-    |opponent10={{TeamOpponent|Underdog Protocol	|score=31}}
-	|opponent11={{TeamOpponent|Wipe And Flex		|score=94}}
-	|opponent12={{TeamOpponent|Well					|score=14}}
+    |twitch=madmagical
+	|map1={{Map|date=October 24, 2025 - 19:00 {{abbr/CEST}}|map=Skylands|finished=true|stats=}}
+    |map2={{Map|date=October 24, 2025 - 19:30 {{abbr/CEST}}|map=Skylands|finished=true|stats=}}
+	|map3={{Map|date=October 24, 2025 - 20:00 {{abbr/CEST}}|map=Skylands|finished=true|stats=}}
+    |map4={{Map|date=October 24, 2025 - 20:30 {{abbr/CEST}}|map=Skylands|finished=true|stats=}}
+	|opponent1={{TeamOpponent|3 little pigs            |m1={{MS|1|13}}|m2={{MS|2|14}}|m3={{MS|8|4}}|m4={{MS|2|8}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent2={{TeamOpponent|Apex Hunters            |m1={{MS|5|7}}|m2={{MS|3|5}}|m3={{MS|6|4}}|m4={{MS|1|11}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent3={{TeamOpponent|Aurora                |m1={{MS|10|1}}|m2={{MS|4|8}}|m3={{MS|2|9}}|m4={{MS|6|1}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent4={{TeamOpponent|Employement Victims    |m1={{MS|7|1}}|m2={{MS|10|1}}|m3={{MS|12|2}}|m4={{MS|12|0}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent5={{TeamOpponent|First Line Front        |m1={{MS|11|2}}|m2={{MS|11|0}}|m3={{MS|9|2}}|m4={{MS|7|1}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent6={{TeamOpponent|Stormbreakers            |m1={{MS|6|8}}|m2={{MS|1|14}}|m3={{MS|3|12}}|m4={{MS|4|10}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent7={{TeamOpponent|Pure chèvre            |m1={{MS|4|4}}|m2={{MS|6|2}}|m3={{MS|5|3}}|m4={{MS|3|4}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent8={{TeamOpponent|Steady Momentum        |m1={{MS|3|8}}|m2={{MS|8|3}}|m3={{MS|4|6}}|m4={{MS|10|1}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent9={{TeamOpponent|TwoTaps                |m1={{MS|9|0}}|m2={{MS|7|4}}|m3={{MS|10|1}}|m4={{MS|9|3}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent10={{TeamOpponent|Underdog Protocol    |m1={{MS|12|0}}|m2={{MS|5|3}}|m3={{MS|11|1}}|m4={{MS|5|11}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent11={{TeamOpponent|Wipe And Flex        |m1={{MS|2|9}}|m2={{MS|9|6}}|m3={{MS|1|28}}|m4={{MS|8|11}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent12={{TeamOpponent|Well                    |m1={{MS|8|2}}|m2={{MS|12|1}}|m3={{MS|7|3}}|m4={{MS|11|1}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
 }}
 |M2={{Match|finished=1
     |p_kill=1 |p1=20 |p2=15 |p3=12 |p4=10 |p5=8 |p6=6 |p7=4 |p8=3 |p9=2 |p10=1 |p11=0 |p12=0
     |twitch=madmagical|youtube=
-    |opponent1={{TeamOpponent|Abyss Trinity			|score=32}}
-    |opponent2={{TeamOpponent|BAO					|score=92}}
-    |opponent3={{TeamOpponent|Griefing Group		|score=3}}
-    |opponent4={{TeamOpponent|AGRESSION MAX			|score=40}}
-    |opponent5={{TeamOpponent|HAT SOUP COUP			|score=24}}
-    |opponent6={{TeamOpponent|MST200				|score=79}}
-    |opponent7={{TeamOpponent|Meta Slave			|score=15}}
-    |opponent8={{TeamOpponent|Pu Des Pieds			|score=17}}
-    |opponent9={{TeamOpponent|Racoons And Baguette	|score=29}}
-    |opponent10={{TeamOpponent|RATATA				|score=65}}
-	|opponent11={{TeamOpponent|RUE					|score=81}}
-	|opponent12={{TeamOpponent|The Shys				|score=56}}
+	|map1={{Map|date=October 24, 2025 - 21:00 {{abbr/CEST}}|map=Skylands|finished=true|stats=}}
+    |map2={{Map|date=October 24, 2025 - 21:30 {{abbr/CEST}}|map=Skylands|finished=true|stats=}}
+	|map3={{Map|date=October 24, 2025 - 22:00 {{abbr/CEST}}|map=Skylands|finished=true|stats=}}
+    |map4={{Map|date=October 24, 2025 - 22:30 {{abbr/CEST}}|map=Skylands|finished=true|stats=}}
+	|opponent1={{TeamOpponent|Abyss Trinity         |m1={{MS|8|0}}|m2={{MS|9|1}}|m3={{MS|3|5}}|m4={{MS|6|3}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent2={{TeamOpponent|BAO            		|m1={{MS|7|6}}|m2={{MS|3|5}}|m3={{MS|1|15}}|m4={{MS|1|10}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent3={{TeamOpponent|Griefing Group     	|m1={{MS|10|0}}|m2={{MS|12|0}}|m3={{MS|12|2}}|m4={{MS|11|0}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent4={{TeamOpponent|AGRESSION MAX   		|m1={{MS|2|12}}|m2={{MS|10|2}}|m3={{MS|6|3}}|m4={{MS|12|1}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent5={{TeamOpponent|HAT SOUP COUP         |m1={{MS|11|2}}|m2={{MS|6|5}}|m3={{MS|10|4}}|m4={{MS|9|4}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent6={{TeamOpponent|MST200           		|m1={{MS|6|0}}|m2={{MS|1|12}}|m3={{MS|2|8}}|m4={{MS|5|10}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent7={{TeamOpponent|Meta Slave            |m1={{MS|9|2}}|m2={{MS|7|5}}|m3={{MS|11|1}}|m4={{MS|10|0}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent8={{TeamOpponent|Pu Des Pieds      	|m1={{MS|12|0}}|m2={{MS|4|1}}|m3={{MS|8|0}}|m4={{MS|8|0}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent9={{TeamOpponent|Racoons And Baguette	|m1={{MS|3|10}}|m2={{MS|11|1}}|m3={{MS|9|0}}|m4={{MS|7|0}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent10={{TeamOpponent|RATATA  			  	|m1={{MS|4|9}}|m2={{MS|5|7}}|m3={{MS|7|4}}|m4={{MS|3|11}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent11={{TeamOpponent|RUE        			|m1={{MS|1|11}}|m2={{MS|2|11}}|m3={{MS|5|3}}|m4={{MS|4|3}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent12={{TeamOpponent|The Shys             |m1={{MS|5|3}}|m2={{MS|8|1}}|m3={{MS|4|6}}|m4={{MS|2|10}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
 }}
 }}
 {{Tabs dynamic/tab|2}}<!--- Round 1 --->

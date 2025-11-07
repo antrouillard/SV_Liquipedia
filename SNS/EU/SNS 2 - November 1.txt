@@ -24,6 +24,8 @@
 |team_number=24
 |liquipediatier=3
 |map1=Skylands
+|previous=SUPERVIVE/SNS/EU/October{{!}}SNS EU #1 - Turbo Cup
+|next=SUPERVIVE/SNS/EU/November/2{{!}}SNS EU #3 (Tier 2)
 }}
 
 ===Format===
@@ -106,8 +108,8 @@
 
 ===Prize Pool===
 {{TeamPrizePool
-|{{Slot|usdprize=500|{{Opponent|BAO}}}}
-|{{Slot|usdprize=|{{Opponent|3 Little Pigs}}}}
+|{{Slot|usdprize=300|{{Opponent|BAO}}}}
+|{{Slot|usdprize=200|{{Opponent|3 Little Pigs}}}}
 |{{Slot|usdprize=|{{Opponent|RATATA}}}}
 |{{Slot|{{Opponent|TSM}}}}
 |{{Slot|{{Opponent|Wipe and Flex}}}}
@@ -132,30 +134,30 @@
 {{TeamCard|players=3
 |team=Apex Hunters
 |p1=Vipero|p1flag=se
-|p2=Llz4rdof|p2flag=pl
+|p2=L1z4rdo|p2flag=pl
 |p3=Rhapsodie|p3flag=fr
 }}
 {{TeamCard|players=3
 |team=Aurora
-|p1=gernninja|p1flag=de
-|p2=MrFluffyFish|p2flag=eu
+|p1=gerninja|p1flag=de
+|p2=MrFluffyFish|p2flag=uk
 |p3=Sebyyy|p3flag=de
 }}
 {{TeamCard|players=3
 |team=BAO
 |p1=Birouf|p1flag=fr
 |p2=AshTTV|p2flag=fr
-|p3=TTV VzOrlando|p3flag=fr
+|p3=TTV VzOrlandos|p3flag=fr
 }}
 {{TeamCard|players=3
 |team=Bring Back Brushwackers
 |p1=Squaye|p1flag=fr
 |p2=Lev0thy|p2flag=fr
-|p3=Numa|p3flag=eu
+|p3=Numa|p3flag=fr
 }}
 {{TeamCard|players=3
 |team=Employment Victims
-|p1=Levi|p1flag=eu
+|p1=Levi|p1flag=de
 |p2=CrOuch|p2flag=de
 |p3=Eclipse|p3flag=eu
 }}
@@ -167,19 +169,19 @@
 }}
 {{TeamCard|players=3
 |team=RATATA
-|p1=Cookiesx66|p1flag=sk
+|p1=Cookiess66|p1flag=sk
 |p2=meckimeck|p2flag=de
-|p3=adamcar|p3flag=hu
+|p3=adamarc|p3flag=hu
 }}
 {{TeamCard|players=3
 |team=RUE
 |p1=FateStrikes|p1flag=dk
-|p2=TTV_yaserAQ|p2flag=eu
-|p3=Zodag|p3flag=eu
+|p2=TTV_yaserAQ|p2flag=eg
+|p3=Zodag|p3flag=nl
 }}
 {{TeamCard|players=3
 |team=The SHY
-|p1=Sprocainne|p1flag=uk
+|p1=Sprocaine|p1flag=uk
 |p2=Hachi|p2flag=nl
 |p3=Tom Kick|p3flag=no
 }}
@@ -187,30 +189,30 @@
 |team=Team Steady Momentum
 |p1=blink|p1flag=hu
 |p2=LilMeap|p2flag=ro
-|p3=Spider-Brall|p3flag=eu
+|p3=Spider-Brall|p3flag=fr
 }}
 {{TeamCard|players=3
 |team=Underdog Protocol
-|p1=SIX PAST NOON|p1flag=eu
+|p1=SIX PAST NOON|p1flag=ru
 |p2=Kalcio|p2flag=es
-|p3=Khyaar|p3flag=eu
+|p3=Khyzaro|p3flag=fr
 }}
 {{TeamCard columns end}}
 
 ==Group B : Participants==
-{{TeamCardToggleButton|playerinfo=true|tcht=215}}
+{{TeamCardToggleButton|playerinfo=true|tcht=216}}
 {{TeamCard columns start|cols=6}}
 {{TeamCard|players=3
 |team=Doom fan club
 |p1=Occo|p1flag=fr
-|p2=Døm|p2flag=fr
+|p2=Døom|p2flag=fr
 |p3=Lumile_|p3flag=fr
 }}
 {{TeamCard|players=3
 |team=Good Game
 |p1=Greed|p1flag=eu
-|p2=Flaxili|p2flag=eu
-|p3=Courageous|p3flag=eu
+|p2=Flaxiii|p2flag=eu
+|p3=Courageous|p3flag=nl
 }}
 {{TeamCard|players=3
 |team=MetaSlave
@@ -246,31 +248,31 @@
 |team=Bring Back Brushwackers
 |p1=Squaye|p1flag=fr
 |p2=Lev0thy|p2flag=fr
-|p3=Numa|p3flag=eu
+|p3=Numa|p3flag=fr
 }}
 {{TeamCard|players=3
 |team=RUE
 |p1=FateStrikes|p1flag=dk
-|p2=TTV_yaserAQ|p2flag=eu
-|p3=Zodag|p3flag=eu
+|p2=TTV_yaserAQ|p2flag=eg
+|p3=Zodag|p3flag=nl
 }}
 {{TeamCard|players=3
 |team=Apex Hunters
 |p1=Vipero|p1flag=se
-|p2=Llz4rdof|p2flag=pl
+|p2=L1z4rdo|p2flag=pl
 |p3=Rhapsodie|p3flag=fr
 }}
 {{TeamCard|players=3
 |team=Employment Victims
-|p1=Levi|p1flag=eu
+|p1=Levi|p1flag=de
 |p2=CrOuch|p2flag=de
 |p3=Eclipse|p3flag=eu
 }}
 {{TeamCard|players=3
 |team=Underdog Protocol
-|p1=SIX PAST NOON|p1flag=eu
+|p1=SIX PAST NOON|p1flag=ru
 |p2=Kalcio|p2flag=es
-|p3=Khyaar|p3flag=eu
+|p3=Khyzaro|p3flag=fr
 }}
 {{TeamCard columns end}}
 

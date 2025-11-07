@@ -1,8 +1,7 @@
 {{DISPLAYTITLE:Saturday Night Supervive NA #3 (Tier 1)}}
 {{Tabs static
 |name1=Overview |link1=SUPERVIVE/SNS/NA/November/2
-|name2=Group Stage |link2=SUPERVIVE/SNS/NA/November/2/Group_Stage
-|name3=Finals |link3=SUPERVIVE/SNS/NA/November/2/Finals
+|name2=Finals |link2=SUPERVIVE/SNS/NA/November/2/Finals
 }}
 {{Infobox league
 |name=Saturday Night Supervive NA #3 (Tier 1)
@@ -16,32 +15,19 @@
 |series=Saturday Night Vive
 |organizer=
 |organizer2=
-|sdate=2025-11-07
-|edate=2025-11-08
+|date=2025-11-08
 |prizepoolusd=500$
 |twitch=theorycraftgames
 |discord=mQSZsGzFHP
 |team_number=24
 |liquipediatier=1
 |map1=Skylands
+|previous=SUPERVIVE/SNS/NA/November/1{{!}}SNS NA #2 (Tier 2)
+|next=SUPERVIVE/SNS/NA/November/3{{!}}SNS NA #4 (Tier 2)
 }}
 
 ===Format===
 <section begin="Format"/>
-====Group Stage====
-* '''Group Stage:''' ''November 7th''
-** 19 teams of 3 will be split into 2 groups of 12 teams each : 
-*** Group A has the top seeded teams to allow them two chances of qualification to ''Finals''
-**** {{bgcolortext|stayup|Top 7 teams}} of Group A will advance to the ''Finals''.
-**** {{bgcolortext|staydown|Bottom 5 teams}} of Group A go fill Group B.
-*** Group B has the lowest seeded teams.
-**** {{bgcolortext|stayup|Top 5 teams}} of Group B will advance to the ''Finals''.
-**** {{bgcolortext|staydown|Bottom 7 teams}} are eliminated.
-** Each team will play 4 games in the ''Group Stage''.
-** After the stage, 12 teams will advance to the ''Finals'' based off their scores in the ''Group Stage'':
-
-* See ''[[SUPERVIVE/SNS/NA/November/2/Group_Stage|Group Stage]]'' tab for Group Draw, Standings, and Match Results.
-
 ====Finals====
 * '''Finals:''' ''November 8th''
 ** The 12 remaining teams will play 6 games to compete for the first place in scores.
@@ -120,157 +106,80 @@
 |{{Slot|{{Opponent|TBD}}}}
 }}
 
-==Group A : Participants==
+==Participants==
 {{TeamCardToggleButton|playerinfo=true|tcht=215}}
 {{TeamCard columns start|cols=6}}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
+|team=Last Chance
+|p1=Toilet|p1flag=north america
+|p2=Misfit|p2flag=north america
+|p3=jetskii|p3flag=north america
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
+|team=Sqawkers Appreciate Waddling
+|p1=Goroy|p1flag=north america
+|p2=Dylanphttv|p2flag=north america
+|p3=Sunfish|p3flag=north america
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
+|team=BAP
+|p1=shrichael jordan|p1flag=north america
+|p2=Hight|p2flag=north america
+|p3=ralph|p3flag=north america
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
+|team=Supervive Illuminati
+|p1=Blazerker|p1flag=north america
+|p2=monsta|p2flag=north america
+|p3=ThankQ|p3flag=north america
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
+|team=The Last Door
+|p1=PhenomEX|p1flag=north america
+|p2=Lemur|p2flag=north america
+|p3=Lodds|p3flag=north america
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
+|team=BANNED
+|p1=Protofo|p1flag=north america
+|p2=Micamunch|p2flag=north america
+|p3=Krilo|p3flag=north america
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
+|team=Queue Arena
+|p1=WubbyBoy|p1flag=north america
+|p2=thelegend1902|p2flag=north america
+|p3=roughly 44 ducks|p3flag=north america
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
+|team=DDM
+|p1=Dill0nFPS|p1flag=north america
+|p2=Diamond|p2flag=north america
+|p3=mvches|p3flag=north america
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
+|team=The Clyde Show
+|p1=AdaptiveElk|p1flag=north america
+|p2=destravous|p2flag=north america
+|p3=Clyde Cash|p3flag=north america
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
+|team=GAY
+|p1=Halcyon|p1flag=north america
+|p2=Afro|p2flag=north america
+|p3=tbd|p3flag=north america
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
+|team=Train Deaths Only
+|p1=TheTornadoboy|p1flag=north america
+|p2=Lejindary|p2flag=north america
+|p3=Dumbcus|p3flag=north america
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
-}}
-{{TeamCard columns end}}
-
-==Group B : Participants==
-{{TeamCardToggleButton|playerinfo=true|tcht=215}}
-{{TeamCard columns start|cols=6}}
-{{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
-}}
-{{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
-}}
-{{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
-}}
-{{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
-}}
-{{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
-}}
-{{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
-}}
-{{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
-}}
-{{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
-}}
-{{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
-}}
-{{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
-}}
-{{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
-}}
-{{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=north america
-|p2=|p2flag=north america
-|p3=|p3flag=north america
+|team=Biroufs Muscles
+|p1=Sprocaine|p1flag=gb
+|p2=Birouf|p2flag=fr
+|p3=Ash|p3flag=fr
 }}
 {{TeamCard columns end}}
 

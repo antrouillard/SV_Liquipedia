@@ -24,6 +24,7 @@
 |team_number=24
 |liquipediatier=2
 |map1=Skylands
+|next=SUPERVIVE/SNS/EU/November/1{{!}}SNS EU #2 (Tier 1)
 }}
 
 ===Format===
@@ -121,7 +122,7 @@
 |team=3 Little Pigs
 |p1=AidanBY|p1flag=uk
 |p2=Akalynx|p2flag=nl
-|p3=Shroom|p3flag=se
+|p3=shroom|p3flag=se
 }}
 {{TeamCard|players=3
 |team=Apex Hunters
@@ -137,8 +138,8 @@
 }}
 {{TeamCard|players=3
 |team=Employement Victims
-|p1=MrIceT|p1flag=eu
-|p2=Levi|p2flag=eu
+|p1=MrIceT|p1flag=at
+|p2=Levi|p2flag=de
 |p3=CrOuch|p3flag=de
 }}
 {{TeamCard|players=3
@@ -173,7 +174,7 @@
 }}
 {{TeamCard|players=3
 |team=Underdog Protocol
-|p1=SIX PAST NOON|p1flag=eu
+|p1=SIX PAST NOON|p1flag=ru
 |p2=Syk Yr Void|p2flag=eu
 |p3=salamanderq|p3flag=eu
 }}
@@ -273,20 +274,26 @@
 
 <!-- Grand Final -->
 |R1M1={{Match|finished=true
-	|p_kill=1
-	|twitch=|youtube=
-	|opponent1={{TeamOpponent|Wipe And Flex			|score=69}}
-	|opponent2={{TeamOpponent|3 little pigs			|score=145}}
-	|opponent3={{TeamOpponent|Stormbreakers			|score=124}}
-	|opponent4={{TeamOpponent|BAO					|score=86}}
-	|opponent5={{TeamOpponent|RUE					|score=51}}
-	|opponent6={{TeamOpponent|MST200				|score=61}}
-	|opponent7={{TeamOpponent|Apex Hunters			|score=23}}
-	|opponent8={{TeamOpponent|The Shys				|score=44}}
-	|opponent9={{TeamOpponent|Aurora				|score=47}}
-	|opponent10={{TeamOpponent|Pure Chèvre			|score=48}} <!-- SUS -->
-	|opponent11={{TeamOpponent|AGRESSION MAX		|score=38}} <!-- GRR -->
-	|opponent12={{TeamOpponent|RATATA				|score=103}}
+    |p_kill=1 |p1=20 |p2=15 |p3=12 |p4=10 |p5=8 |p6=6 |p7=4 |p8=3 |p9=2 |p10=1 |p11=0 |p12=0
+    |twitch=|youtube=
+    |map1={{Map|date=2025-10-25 19:00 {{Abbr/CEST}}|finished=true|map=Skylands|vod=|stats=}}
+    |map2={{Map|date=2025-10-25 19:30 {{Abbr/CEST}}|finished=true|map=Skylands|vod=|stats=}}
+    |map3={{Map|date=2025-10-25 20:00 {{Abbr/CEST}}|finished=true|map=Skylands|vod=|stats=}}
+    |map4={{Map|date=2025-10-25 20:30 {{Abbr/CEST}}|finished=true|map=Skylands|vod=|stats=}}
+	|map5={{Map|date=2025-10-25 21:00 {{Abbr/CEST}}|finished=true|map=Skylands|vod=|stats=}}
+	|map6={{Map|date=2025-10-25 21:30 {{Abbr/CEST}}|finished=true|map=Skylands|vod=|stats=}}
+    |opponent1={{TeamOpponent|Wipe And Flex		|m1={{MS|4|4}}|m2={{MS|6|4}}|m3={{MS|3|10}}|m4={{MS|5|7}}|m5={{MS|11|6}}|m6={{MS|12|2}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent2={{TeamOpponent|3 little pigs		|m1={{MS|3|8}}|m2={{MS|10|7}}|m3={{MS|1|11}}|m4={{MS|2|11}}|m5={{MS|2|9}}|m6={{MS|1|16}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent3={{TeamOpponent|Stormbreakers		|m1={{MS|2|5}}|m2={{MS|1|15}}|m3={{MS|4|10}}|m4={{MS|4|14}}|m5={{MS|3|10}}|m6={{MS|9|1}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent4={{TeamOpponent|BAO				|m1={{MS|1|12}}|m2={{MS|2|4}}|m3={{MS|7|2}}|m4={{MS|11|0}}|m5={{MS|8|3}}|m6={{MS|5|15}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent5={{TeamOpponent|RUE				|m1={{MS|7|3}}|m2={{MS|9|4}}|m3={{MS|9|0}}|m4={{MS|10|1}}|m5={{MS|4|5}}|m6={{MS|2|4}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent6={{TeamOpponent|MST200			|m1={{MS|11|4}}|m2={{MS|4|4}}|m3={{MS|2|16}}|m4={{MS|12|0}}|m5={{MS|10|0}}|m6={{MS|6|5}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent7={{TeamOpponent|Apex Hunters		|m1={{MS|8|3}}|m2={{MS|12|1}}|m3={{MS|12|0}}|m4={{MS|7|2}}|m5={{MS|7|1}}|m6={{MS|7|1}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent8={{TeamOpponent|The Shys			|m1={{MS|10|0}}|m2={{MS|7|2}}|m3={{MS|5|1}}|m4={{MS|3|7}}|m5={{MS|12|1}}|m6={{MS|8|5}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent9={{TeamOpponent|Aurora			|m1={{MS|12|0}}|m2={{MS|5|6}}|m3={{MS|10|1}}|m4={{MS|9|5}}|m5={{MS|6|12}}|m6={{MS|11|6}}|m7={{MS||}}|m8={{MS||}}}}
+    |opponent10={{TeamOpponent|Pure Chèvre		|m1={{MS|5|2}}|m2={{MS|8|1}}|m3={{MS|8|2}}|m4={{MS|6|2}}|m5={{MS|5|1}}|m6={{MS|4|2}}|m7={{MS||}}|m8={{MS||}}}}
+	|opponent11={{TeamOpponent|AGRESSION MAX	|m1={{MS|6|1}}|m2={{MS|11|1}}|m3={{MS|11|2}}|m4={{MS|8|2}}|m5={{MS|9|1}}|m6={{MS|3|8}}|m7={{MS||}}|m8={{MS||}}}}
+	|opponent12={{TeamOpponent|RATATA			|m1={{MS|9|2}}|m2={{MS|3|5}}|m3={{MS|6|6}}|m4={{MS|1|15}}|m5={{MS|1|10}}|m6={{MS|10|4}}|m7={{MS||}}|m8={{MS||}}}}
 }}
 }}
 
@@ -311,7 +318,7 @@
 |position=Caster
 |b1=MadMagical
 |stream=https://twitch.tv/madmagical
-|b2=Shivam
+|b2=Symeri
 |b3=Zikorik
 |b4=Tsunani
 }}
@@ -320,6 +327,12 @@
 |position=Observer
 |b1=MadMagical
 }}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Producer
+|b1=Shivam
+}}
+
 {{box|end}}
 
 {{Tabs dynamic/end}}

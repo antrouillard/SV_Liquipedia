@@ -1,4 +1,4 @@
-{{DISPLAYTITLE:SNS NA #1}}
+{{DISPLAYTITLE:SNS NA #1 - Turbo Cup}}
 {{Tabs static
 |name1=Overview |link1=SUPERVIVE/SNS/NA/October
 |name2=Group Stage |link2=SUPERVIVE/SNS/NA/October/Group_Stage
@@ -24,6 +24,7 @@
 |team_number=12
 |liquipediatier=2
 |map1=Skylands
+|next=SUPERVIVE/SNS/NA/November/1{{!}}SNS NA #2 (Tier 2)
 }}
 
 ===Format===

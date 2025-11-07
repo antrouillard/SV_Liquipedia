@@ -23,6 +23,8 @@
 |team_number=12
 |liquipediatier=3
 |map1=Skylands
+|previous=SUPERVIVE/SNS/NA/October{{!}}SNS NA #1 - Turbo Cup
+|next=SUPERVIVE/SNS/NA/November/2{{!}}SNS NA #3 (Tier 1)
 }}
 
 ===Format===

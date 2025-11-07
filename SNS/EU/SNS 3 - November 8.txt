@@ -22,15 +22,17 @@
 |twitch=theorycraftgames
 |discord=mQSZsGzFHP
 |team_number=24
-|liquipediatier=2
+|liquipediatier=4
 |map1=Skylands
+|previous=SUPERVIVE/SNS/EU/November/1{{!}}SNS EU #2 (Tier 1)
+|next=SUPERVIVE/SNS/EU/November/3{{!}}SNS EU #4 (Tier 1)
 }}
 
 ===Format===
 <section begin="Format"/>
 ====Group Stage====
 * '''Group Stage:''' ''November 7th''
-** 19 teams of 3 will be split into 2 groups of 12 teams each : 
+** X teams of 3 will be split into 2 groups of 12 teams each : 
 *** Group A has the top seeded teams to allow them two chances of qualification to ''Finals''
 **** {{bgcolortext|stayup|Top 7 teams}} of Group A will advance to the ''Finals''.
 **** {{bgcolortext|staydown|Bottom 5 teams}} of Group A go fill Group B.
