@@ -17,11 +17,16 @@
 ==Format==
 <section begin="Format"/>
 * '''Group Stage:''' ''October 24th''
-** X teams of 3 will be split into X even groups of 12 teams each.
-** Each team will play 6 games in the ''Group Stage''.
-** After the stage, 12 teams will advance to the ''Finals'' based off their scores of the ''Group Stage'':
-*** {{bgcolortext|stayup|Top X teams}} of each group will advance to the ''Finals''.
-*** {{bgcolortext|staydown|Bottom X teams}} of each group are eliminated.
+** 18 teams of 3 will be split into 2 groups : 
+*** Group A has the top seeded teams to allow them two chances of qualification to ''Finals''
+**** {{bgcolortext|stayup|Top 6 teams}} of Group A will advance to the ''Finals''.
+**** {{bgcolortext|staydown|Bottom 6 teams}} of Group A go fill Group B.
+*** Group B has the lowest seeded teams.
+**** {{bgcolortext|stayup|Top 6 teams}} of Group B will advance to the ''Finals''.
+**** {{bgcolortext|staydown|Bottom 6 teams}} are eliminated.
+** Each team will play 4 games in the ''Group Stage''.
+** After the stage, 12 teams will advance to the ''Finals'' based off their scores in the ''Group Stage''.
+
 <section end="Format"/>
 
 ==Group Draw==
@@ -116,18 +121,37 @@
     |opponent12={{TeamOpponent|ToxicGamingEsports|score=4}}
 }}
 }}
-{{Tabs dynamic/tab|2}}<!--- Round 1 --->
-{{box|start|padding=2em}}
+{{Tabs dynamic/tab|2}}
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: flex-start;">
+<div style="flex: 0 1 auto; min-width: 250px;">
 <section begin="Results"/>
-{{FfaStandings|title=Group Stage Standings
-|bg=1-11=up, 12=down, 13=up, 14-40=down
+{{FfaStandings|title=Group A Standings
+|bg=1-6=up, 7-12=stay
 <!-- Rounds -->
-|round1={{Round|title=GROUP A|matches=SNSNAGRP01_0001,SNSNAGRP01_0002|started=1|finished=1}}
+|round1={{Round|matches=SNSNAGRP01_0001|started=1|finished=1}}
 }}<section end="Results"/>
-{{box|break|padding=2em}}<br />
+</div>
+<div style="flex: 0 1 auto; min-width: 250px;">
+{{Legend|up=1|stay=1
+|uptitle=Advanced to '''[[SUPERVIVE/SNS/NA/October/Finals|Finals]]'''
+|staytitle=Moves to Group B
+}}
+</div>
+<div style="flex: 0 1 auto; min-width: 250px;">
+<section begin="Results"/>
+{{FfaStandings|title=Group B Standings
+|bg=1-6=up, 7-12=down
+<!-- Rounds -->
+|round1={{Round|matches=SNSNAGRP01_0002|started=1|finished=1}}
+}}<section end="Results"/>
+</div>
+<br />
+
+<div style="flex: 0 1 auto; min-width: 250px;">
 {{Legend|up=1|down=1
 |uptitle=Advanced to '''[[SUPERVIVE/SNS/NA/October/Finals|Finals]]'''
-|downtitle=Eliminated
+|staytitle=Eliminated
 }}
-{{box|end|padding=2em}}
+</div>
+</div>
 {{Tabs dynamic/end}}

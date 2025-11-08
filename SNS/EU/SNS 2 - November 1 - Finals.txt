@@ -20,6 +20,11 @@
 ** The 12 remaining teams will play 6 games to compete for the first place in scores.
 <section end="Format"/>
 
+==Hunter Bans==
+* After game 3, the top 3 hunters in pickrate were banned. 
+* The banned hunters for this series were [[File:Oath_Icon.png|35px]] Oath, [[File:Kingpin_Icon.png|35px]] Kingpin and [[File:Ghost_Icon.png|35px]] Ghost.
+
+
 ==Results==
 {{Bracket|Bracket/2|id=SNSEUNOV02
 
@@ -81,8 +86,3 @@
 {{box|end}}
 
 {{Tabs dynamic/end}}
-
-==Additional Data==
-
-===Country Representation===
-{{Country representation|staff=true}}

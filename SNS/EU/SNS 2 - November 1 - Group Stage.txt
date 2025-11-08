@@ -118,17 +118,36 @@
 }}
 }}
 {{Tabs dynamic/tab|2}}
-{{box|start|padding=2em}}
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: flex-start;">
+<div style="flex: 0 1 auto; min-width: 250px;">
 <section begin="Results"/>
-{{FfaStandings|title=Group Stage Standings
-|bg=1-10=up, 11=down, 12-13=up, 14-40=down
+{{FfaStandings|title=Group A Standings
+|bg=1-7=up, 8-12=stay
 <!-- Rounds -->
-|round1={{Round|matches=SNSEUGRP02_0001,SNSEUGRP02_0002|started=1|finished=1}}
+|round1={{Round|matches=SNSEUGRP02_0001|started=1|finished=1}}
 }}<section end="Results"/>
-{{box|break|padding=2em}}<br />
+</div>
+<div style="flex: 0 1 auto; min-width: 250px;">
+{{Legend|up=1|stay=1
+|uptitle=Advanced to '''[[SUPERVIVE/SNS/EU/November/1/Finals|Finals]]'''
+|staytitle=Moves to Group B
+}}
+</div>
+<div style="flex: 0 1 auto; min-width: 250px;">
+<section begin="Results"/>
+{{FfaStandings|title=Group B Standings
+|bg=1-5=up, 6-12=down
+<!-- Rounds -->
+|round1={{Round|matches=SNSEUGRP02_0002|started=1|finished=1}}
+}}<section end="Results"/>
+</div>
+<br />
+
+<div style="flex: 0 1 auto; min-width: 250px;">
 {{Legend|up=1|down=1
 |uptitle=Advanced to '''[[SUPERVIVE/SNS/EU/November/1/Finals|Finals]]'''
-|downtitle=Eliminated
+|staytitle=Eliminated
 }}
-{{box|end|padding=2em}}
+</div>
+</div>
 {{Tabs dynamic/end}}

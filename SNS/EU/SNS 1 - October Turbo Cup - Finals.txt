@@ -54,7 +54,7 @@
 
 ==Additional Data==
 
-===Hunter Statistics===
+===Hunter Statistics after Game 3===
 {| class="wikitable sortable" style="text-align:center"
 |-
 !Hunter
@@ -63,23 +63,23 @@
 !Present %
 !Picked %
 |-
-|style="background-color:#ffcccc;"|[[File:Oath_Icon.png|32px]] Oath
-|style="background-color:#ffcccc;"|18
-|style="background-color:#ffcccc;"|3
-|style="background-color:#ffcccc;"|100%
-|style="background-color:#ffcccc;"|16.67%
+|style="background-color:#570202;"|[[File:Oath_Icon.png|32px]] Oath
+|style="background-color:#570202;"|18
+|style="background-color:#570202;"|3
+|style="background-color:#570202;"|100%
+|style="background-color:#570202;"|16.67%
 |-
-|style="background-color:#ffcccc;"|[[File:Kingpin_Icon.png|32px]] Kingpin
-|style="background-color:#ffcccc;"|15
-|style="background-color:#ffcccc;"|3
-|style="background-color:#ffcccc;"|100%
-|style="background-color:#ffcccc;"|13.89%
+|style="background-color:#570202;"|[[File:Kingpin_Icon.png|32px]] Kingpin
+|style="background-color:#570202;"|15
+|style="background-color:#570202;"|3
+|style="background-color:#570202;"|100%
+|style="background-color:#570202;"|13.89%
 |-
-|style="background-color:#ffcccc;"|[[File:Ghost_Icon.png|32px]] Ghost
-|style="background-color:#ffcccc;"|12
-|style="background-color:#ffcccc;"|3
-|style="background-color:#ffcccc;"|100%
-|style="background-color:#ffcccc;"|11.11%
+|style="background-color:#570202;"|[[File:Ghost_Icon.png|32px]] Ghost
+|style="background-color:#570202;"|12
+|style="background-color:#570202;"|3
+|style="background-color:#570202;"|100%
+|style="background-color:#570202;"|11.11%
 |-
 |[[File:Bishop_Icon.png|32px]] Bishop
 |10

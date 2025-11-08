@@ -47,7 +47,8 @@
 }}
 
 ==Additional Data==
-
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: flex-start;">
+<div style="flex: 0 1 auto; min-width: 250px;">
 ===Hunter Statistics after Game 3===
 {| class="wikitable sortable" style="text-align:center"
 |-
@@ -67,7 +68,7 @@
 |style="background-color:#570202;"|33.33%
 |style="background-color:#570202;"|12
 |-
-|[[File:Nyx_Icon.png|32px]] Nyx
+|[[File:Nyx_icon.png|32px]] Nyx
 |27.78%
 |10
 |-
@@ -156,7 +157,8 @@
 |0
 |-
 |}
-
+</div>
+<div style="flex: 0 1 auto; min-width: 250px;">
 ===Hunter Statistics after Game 6===
 {| class="wikitable sortable" style="text-align:center"
 |-
@@ -185,7 +187,7 @@
 |16
 |2
 |-
-|[[File:Nyx_Icon.png|32px]] Nyx
+|[[File:Nyx_icon.png|32px]] Nyx
 |22.22%
 |16
 |1
@@ -291,4 +293,5 @@
 |
 |-
 |}
-
+</div>
+</div>

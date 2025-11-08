@@ -1,4 +1,4 @@
-{{DISPLAYTITLE:SNS NA #1 - Turbo Cup}}
+{{DISPLAYTITLE:SNS NA #1}}
 {{Tabs static
 |name1=Overview |link1=SUPERVIVE/SNS/NA/October
 |name2=Group Stage |link2=SUPERVIVE/SNS/NA/October/Group_Stage
@@ -31,11 +31,15 @@
 <section begin="Format"/>
 ====Group Stage====
 * '''Group Stage:''' ''October 24th''
-** X teams of 3 will be split into X even groups of 12 teams each.
-** Each team will play 6 games in the ''Group Stage''.
-** After the stage, 12 teams will advance to the ''Finals'' based off their scores in the ''Group Stage'':
-*** {{bgcolortext|stayup|Top X teams}} of each group will advance to the ''Finals''.
-*** {{bgcolortext|staydown|Bottom X teams}} of each group are eliminated.
+** 18 teams of 3 will be split into 2 groups : 
+*** Group A has the top seeded teams to allow them two chances of qualification to ''Finals''
+**** {{bgcolortext|stayup|Top 6 teams}} of Group A will advance to the ''Finals''.
+**** {{bgcolortext|staydown|Bottom 6 teams}} of Group A go fill Group B.
+*** Group B has the lowest seeded teams.
+**** {{bgcolortext|stayup|Top 6 teams}} of Group B will advance to the ''Finals''.
+**** {{bgcolortext|staydown|Bottom 6 teams}} are eliminated.
+** Each team will play 4 games in the ''Group Stage''.
+** After the stage, 12 teams will advance to the ''Finals'' based off their scores in the ''Group Stage''.
 * See ''[[SUPERVIVE/SNS/NA/October/Group_Stage|Group Stage]]'' tab for Group Draw, Standings, and Match Results.
 ====Finals====
 * '''Finals:''' ''October 25th''
@@ -236,36 +240,42 @@
 |p1=|p1flag=north america
 |p2=|p2flag=north america
 |p3=|p3flag=north america
+|qualifier=7th or less in Group A
 }}
 {{TeamCard|players=3
 |team=
 |p1=|p1flag=north america
 |p2=|p2flag=north america
 |p3=|p3flag=north america
+|qualifier=7th or less in Group A
 }}
 {{TeamCard|players=3
 |team=
 |p1=|p1flag=north america
 |p2=|p2flag=north america
 |p3=|p3flag=north america
+|qualifier=7th or less in Group A
 }}
 {{TeamCard|players=3
 |team=
 |p1=|p1flag=north america
 |p2=|p2flag=north america
 |p3=|p3flag=north america
+|qualifier=7th or less in Group A
 }}
 {{TeamCard|players=3
 |team=
 |p1=|p1flag=north america
 |p2=|p2flag=north america
 |p3=|p3flag=north america
+|qualifier=7th or less in Group A
 }}
 {{TeamCard|players=3
 |team=
 |p1=|p1flag=north america
 |p2=|p2flag=north america
 |p3=|p3flag=north america
+|qualifier=7th or less in Group A
 }}
 {{TeamCard columns end}}
 

@@ -1,3 +1,80 @@
+{{DISPLAYTITLE:SNS NA #2 Finals}}
+{{Tabs static
+|name1=Overview |link1=SUPERVIVE/SNS/NA/November/1
+|name2=Finals |link2=SUPERVIVE/SNS/NA/November/1/Finals
+}}
+{{HiddenDataBox
+|liquipediatier=3
+|name=Saturday Night Supervive NA #2 Finals
+|tickername=SNS NA #2 FN
+|shortname=SNS NA #2 FN
+|image=
+|icon=
+|sdate=2025-11-01
+|edate=2025-11-01
+}}
+==Format==
+<section begin="Format"/>
+* '''Finals:''' ''November 1st''
+** The 12 teams will play 6 games to compete for the first place in scores.
+<section end="Format"/>
+
+==Results==
+{{Bracket|Bracket/2|id=SNSNAFNS02
+
+<!-- Grand Final -->
+|R1M1={{Match|finished=true
+	|p_kill=1
+	|twitch=|youtube=
+	|opponent1={{TeamOpponent|ArKhangels  |score=76}}
+	|opponent2={{TeamOpponent|CrabNabs    |score=8}}
+	|opponent3={{TeamOpponent|Surf n Turf |score=87}}
+	|opponent4={{TeamOpponent|Rarely in Position |score=67}}
+	|opponent5={{TeamOpponent|Sqawkers Appreciate Waddling |score=127}}
+	|opponent6={{TeamOpponent|Longclaw Aficionado's |score=55}}
+	|opponent7={{TeamOpponent|Chonk til you drop |score=35}}
+	|opponent8={{TeamOpponent|Queue Arena |score=114}}
+	|opponent9={{TeamOpponent|Crimson Havoc |score=43}}
+	|opponent10={{TeamOpponent|Me When I |score=133}} 
+	|opponent11={{TeamOpponent|Meow Expedition Team |score=78}} 
+	|opponent12={{TeamOpponent|New Shrike Masters |score=18}}
+}}
+}}
+
+==Broadcast==
+
+===Streams===
+{{Streams|title=Finals
+|lang1=uk |twitch1=madmagical
+|lang2=uk |twitch2=theorycraftgames
+}}
+
+===Broadcast Talent===
+{{Tabs dynamic|name1=NA|This=1|hide-showall=true}}
+{{Tabs dynamic/tab|1}}
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Host
+|b1=MadMagical
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Caster
+|b1=MadMagical
+|stream=https://twitch.tv/madmagical
+|b2=Shivam
+|b3=Zikorik
+|b4=Tsunani
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Observer
+|b1=MadMagical
+}}
+{{box|end}}
+
+{{Tabs dynamic/end}}
+
 ==Additional Data==
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
@@ -18,7 +95,7 @@
 |-
 |3||MEW||Dingo||1||[[File:Ghost_Icon.png|32px]]||28,215
 |-
-|4||QA||thelegend1902||2||[[File:Nyx_Icon.png|32px]]||19,126
+|4||QA||thelegend1902||2||[[File:Nyx_icon.png|32px]]||19,126
 |-
 |5||MW1||Bonk||2||[[File:Carbine_Icon.png|32px]]||28,524
 |-
@@ -68,13 +145,13 @@
 |-
 |1||SQA||DTF||1||[[File:Hudson_Icon.png|32px]]||11
 |-
-|2||QA||thelegend1902||1||[[File:Nyx_Icon.png|32px]]||5
+|2||QA||thelegend1902||1||[[File:Nyx_icon.png|32px]]||5
 |-
 |2||ARK||Anointed||7||[[File:Carbine_Icon.png|32px]]||5
 |-
 |3||CHC||Jesus Christ||11||[[File:Ghost_Icon.png|32px]]||6
 |-
-|3||ARK||Anointed||6||[[File:Nyx_Icon.png|32px]]||6
+|3||ARK||Anointed||6||[[File:Nyx_icon.png|32px]]||6
 |-
 |3||MW1||Bonk||3||[[File:Carbine_Icon.png|32px]]||6
 |-

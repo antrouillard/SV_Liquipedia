@@ -221,66 +221,66 @@
 |p3=Reign|p3flag=eu
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=Pôle Emploi
+|p1=TrepA|p1flag=fr
+|p2=Doudzer|p2flag=fr
+|p3=Le mec gentil|p3flag=fr
 |qualifier= 4th or below in Group A
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=One Quick Win
+|p1=velati|p1flag=eu
+|p2=Sunshies|p2flag=eu
+|p3=SIX PAST NOON|p3flag=ru
 |qualifier= 4th or below in Group A
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=Sweatervive
+|p1=CapnHammered|p1flag=eu
+|p2=Syk Yr Void|p2flag=eu
+|p3=Mownster|p3flag=eu
 |qualifier= 4th or below in Group A
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=AMOGUS
+|p1=Hunger121212|p1flag=eu
+|p2=Zeolade|p2flag=eu
+|p3=Spore|p3flag=eu
 |qualifier= 4th or below in Group A
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=ATK
+|p1=TrainEnthusiast|p1flag=eu
+|p2=TheBackpackGods|p2flag=eu
+|p3=atsu|p3flag=eu
 |qualifier= 4th or below in Group A
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=Fish
+|p1=LePiggy|p1flag=eu
+|p2=GrosLombaire|p2flag=eu
+|p3=I Drive|p3flag=eu
 |qualifier= 4th or below in Group A
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=Abyss Trinity
+|p1=Moawik|p1flag=de
+|p2=Crystall|p2flag=de
+|p3=JoBoe|p3flag=eu
 |qualifier= 4th or below in Group A
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=HAT SOUP COUP
+|p1=RanterGMR|p1flag=fr
+|p2=milkhoney|p2flag=eu
+|p3=catheist|p3flag=est
 |qualifier= 4th or below in Group A
 }}
 {{TeamCard|players=3
-|team=TBD
-|p1=|p1flag=eu
-|p2=|p2flag=eu
-|p3=|p3flag=eu
+|team=First Line Front
+|p1=MariOnet|p1flag=eu
+|p2=J-raf|p2flag=eu
+|p3=Sparta|p3flag=eu
 |qualifier= 4th or below in Group A
 }}
 {{TeamCard columns end}}
@@ -289,21 +289,21 @@
 {{Bracket|Bracket/2|id=SNSEUNOV08
 
 <!-- Grand Final -->
-|R1M1={{Match|finished=true
+|R1M1={{Match|finished=0
 	|p_kill=1
 	|twitch=|youtube=
-	|opponent1={{TeamOpponent|TBD}}
-	|opponent2={{TeamOpponent|TBD}}
-	|opponent3={{TeamOpponent|TBD}}
-	|opponent4={{TeamOpponent|TBD}}
-	|opponent5={{TeamOpponent|TBD}}
-	|opponent6={{TeamOpponent|TBD}}
-	|opponent7={{TeamOpponent|TBD}}
-	|opponent8={{TeamOpponent|TBD}}
-	|opponent9={{TeamOpponent|TBD}}
-	|opponent10={{TeamOpponent|TBD}}
-	|opponent11={{TeamOpponent|TBD}}
-	|opponent12={{TeamOpponent|TBD}}
+	|opponent1={{TeamOpponent|Apex Hunters}}
+	|opponent2={{TeamOpponent|Kinetic}}
+	|opponent3={{TeamOpponent|Old N Washed}}
+	|opponent4={{TeamOpponent|One Quick Win}}
+	|opponent5={{TeamOpponent|Abyss Trinity}}
+	|opponent6={{TeamOpponent|Ayayaya}}
+	|opponent7={{TeamOpponent|Pôle emploi}}
+	|opponent8={{TeamOpponent|Fish}}
+	|opponent9={{TeamOpponent|HAT SOUP COUP}}
+	|opponent10={{TeamOpponent|Nerf Shrike}}
+	|opponent11={{TeamOpponent|ROG}}
+	|opponent12={{TeamOpponent|Sweatervive}}
 }}
 }}
 

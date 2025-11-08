@@ -22,6 +22,7 @@
 ** After the stage, 12 teams will advance to the ''Finals'' based off their scores of the ''Group Stage'':
 *** {{bgcolortext|stayup|Top 3 teams}} of Group A will advance to the ''Finals''.
 *** {{bgcolortext|staydown|Bottom 9 teams}} of Group A move to Group B.
+** --
 *** {{bgcolortext|stayup|Top 9 teams}} of Group B will advance to the ''Finals''.
 *** {{bgcolortext|staydown|Bottom 3 teams}} of Group B are eliminated.
 <section end="Format"/>
@@ -131,10 +132,16 @@
 <div style="flex: 0 1 auto; min-width: 250px;">
 <section begin="Results"/>
 {{FfaStandings|title=Group A Standings
-|bg=1-3=up, 4-12=down
+|bg=1-3=up, 4-12=stay
 <!-- Rounds -->
 |round1={{Round|matches=SNSEUGRP03_0001|started=1|finished=1}}
 }}<section end="Results"/>
+</div>
+<div style="flex: 0 1 auto; min-width: 250px;">
+{{Legend|up=1|stay=1
+|uptitle=Advanced to '''[[SUPERVIVE/SNS/EU/November/2/Finals|Finals]]'''
+|staytitle=Moves to Group B
+}}
 </div>
 <div style="flex: 0 1 auto; min-width: 250px;">
 <section begin="Results"/>
@@ -144,10 +151,13 @@
 |round1={{Round|matches=SNSEUGRP03_0002|started=1|finished=1}}
 }}<section end="Results"/>
 </div>
-</div>
 <br />
+
+<div style="flex: 0 1 auto; min-width: 250px;">
 {{Legend|up=1|down=1
 |uptitle=Advanced to '''[[SUPERVIVE/SNS/EU/November/2/Finals|Finals]]'''
-|downtitle=Eliminated
+|staytitle=Eliminated
 }}
+</div>
+</div>
 {{Tabs dynamic/end}}

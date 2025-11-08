@@ -125,18 +125,31 @@
     |opponent12={{TeamOpponent|The Shys             |m1={{MS|5|3}}|m2={{MS|8|1}}|m3={{MS|4|6}}|m4={{MS|2|10}}|m5={{MS||}}|m6={{MS||}}|m7={{MS||}}|m8={{MS||}}}}
 }}
 }}
-{{Tabs dynamic/tab|2}}<!--- Round 1 --->
-{{box|start|padding=2em}}
+{{Tabs dynamic/tab|2}}
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: flex-start;">
+<div style="flex: 0 1 auto; min-width: 250px;">
 <section begin="Results"/>
-{{FfaStandings|title=Group Stage Standings
-|bg=1-11=up, 12=down, 13=up, 14-40=down
+{{FfaStandings|title=Group A Standings
+|bg=1-6=up, 7-12=down
 <!-- Rounds -->
-|round1={{Round|title=GROUP A|matches=SNSEUGRP01_0001,SNSEUGRP01_0002|started=1|finished=1}}
+|round1={{Round|matches=SNSEUGRP01_0001|started=1|finished=1}}
 }}<section end="Results"/>
-{{box|break|padding=2em}}<br />
+</div>
+<div style="flex: 0 1 auto; min-width: 250px;">
+<section begin="Results"/>
+{{FfaStandings|title=Group B Standings
+|bg=1-6=up, 7-12=down
+<!-- Rounds -->
+|round1={{Round|matches=SNSEUGRP01_0002|started=1|finished=1}}
+}}<section end="Results"/>
+</div>
+<br />
+
+<div style="flex: 0 1 auto; min-width: 250px;">
 {{Legend|up=1|down=1
 |uptitle=Advanced to '''[[SUPERVIVE/SNS/EU/October/Finals|Finals]]'''
-|downtitle=Eliminated
+|staytitle=Eliminated
 }}
-{{box|end|padding=2em}}
+</div>
+</div>
 {{Tabs dynamic/end}}
