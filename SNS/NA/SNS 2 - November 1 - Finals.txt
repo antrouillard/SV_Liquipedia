@@ -1,81 +1,346 @@
-{{DISPLAYTITLE:SNS NA #2 Finals}}
-{{Tabs static
-|name1=Overview |link1=SUPERVIVE/SNS/NA/November/1
-|name2=Finals |link2=SUPERVIVE/SNS/NA/November/1/Finals
-}}
-{{HiddenDataBox
-|liquipediatier=3
-|name=Saturday Night Supervive NA #2 Finals
-|tickername=SNS NA #2 FN
-|shortname=SNS NA #2 FN
-|image=
-|icon=
-|sdate=2025-11-01
-|edate=2025-11-01
-}}
-==Format==
-<section begin="Format"/>
-* '''Finals:''' ''November 1st''
-** The 12 teams will play 6 games to compete for the first place in scores.
-<section end="Format"/>
-
-==Results==
-{{Bracket|Bracket/2|id=SNSNAFNS02
-
-<!-- Grand Final -->
-|R1M1={{Match|finished=true
-	|p_kill=1
-	|twitch=|youtube=
-	|opponent1={{TeamOpponent|ArKhangels  |score=76}}
-	|opponent2={{TeamOpponent|CrabNabs    |score=8}}
-	|opponent3={{TeamOpponent|Surf n Turf |score=87}}
-	|opponent4={{TeamOpponent|Rarely in Position |score=67}}
-	|opponent5={{TeamOpponent|Sqawkers Appreciate Waddling |score=127}}
-	|opponent6={{TeamOpponent|Longclaw Aficionado's |score=55}}
-	|opponent7={{TeamOpponent|Chonk til you drop |score=35}}
-	|opponent8={{TeamOpponent|Queue Arena |score=114}}
-	|opponent9={{TeamOpponent|Crimson Havoc |score=43}}
-	|opponent10={{TeamOpponent|Me When I |score=133}} 
-	|opponent11={{TeamOpponent|Meow Expedition Team |score=78}} 
-	|opponent12={{TeamOpponent|New Shrike Masters |score=18}}
-}}
-}}
-
-==Broadcast==
-
-===Streams===
-{{Streams|title=Finals
-|lang1=uk |twitch1=madmagical
-|lang2=uk |twitch2=theorycraftgames
-}}
-
-===Broadcast Talent===
-{{Tabs dynamic|name1=NA|This=1|hide-showall=true}}
-{{Tabs dynamic/tab|1}}
-{{box|start|padding=2em}}
-{{BroadcasterCard
-|position=Host
-|b1=MadMagical
-}}
-{{box|break|padding=1em}}
-{{BroadcasterCard
-|position=Caster
-|b1=MadMagical
-|stream=https://twitch.tv/madmagical
-|b2=Shivam
-|b3=Zikorik
-|b4=Tsunani
-}}
-{{box|break|padding=1em}}
-{{BroadcasterCard
-|position=Observer
-|b1=MadMagical
-}}
-{{box|end}}
-
-{{Tabs dynamic/end}}
-
 ==Additional Data==
 
-===Country Representation===
-{{Country representation|staff=true}}
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 300px;">
+====Most Damage Each Game====
+{| class="wikitable sortable" style="text-align:center; width:100%"
+|-
+!Match #
+!Team
+!Player
+!Place
+!Hunter
+!Damage
+|-
+|1||SQA||Goroy||1||[[File:Saros_Icon.png|32px]]||40,986
+|-
+|2||SQA||Goroy||3||[[File:Saros_Icon.png|32px]]||20,430
+|-
+|3||MEW||Dingo||1||[[File:Ghost_Icon.png|32px]]||28,215
+|-
+|4||QA||thelegend1902||2||[[File:Nyx_Icon.png|32px]]||19,126
+|-
+|5||MW1||Bonk||2||[[File:Carbine_Icon.png|32px]]||28,524
+|-
+|6||MW1||Bonk||1||[[File:Carbine_Icon.png|32px]]||20,901
+|-
+|}
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+====Most Healing Each Game====
+{| class="wikitable sortable" style="text-align:center; width:100%"
+|-
+!Match #
+!Team
+!Player
+!Place
+!Hunter
+!Healing
+|-
+|1||QA||roughly 44 ducks||2||[[File:Zeph_Icon.png|32px]]||15,572
+|-
+|2||MEW||Taricha||2||[[File:Zeph_Icon.png|32px]]||8610
+|-
+|3||RiP||whit||2||[[File:Zeph_Icon.png|32px]]||14257
+|-
+|4||QA||roughly 44 ducks||2||[[File:Zeph_Icon.png|32px]]||6729
+|-
+|5||RiP||whit||5||[[File:Zeph_Icon.png|32px]]||7876
+|-
+|6||QA||roughly 44 ducks||5||[[File:Zeph_Icon.png|32px]]||8549
+|-
+|}
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+====Most Kills Each Game====
+{| class="wikitable sortable" style="text-align:center; width:100%"
+|-
+!Match #
+!Team
+!Player
+!Place
+!Hunter
+!Kills
+|-
+|1||SQA||Goroy||1||[[File:Saros_Icon.png|32px]]||11
+|-
+|1||SQA||DTF||1||[[File:Hudson_Icon.png|32px]]||11
+|-
+|2||QA||thelegend1902||1||[[File:Nyx_Icon.png|32px]]||5
+|-
+|2||ARK||Anointed||7||[[File:Carbine_Icon.png|32px]]||5
+|-
+|3||CHC||Jesus Christ||11||[[File:Ghost_Icon.png|32px]]||6
+|-
+|3||ARK||Anointed||6||[[File:Nyx_Icon.png|32px]]||6
+|-
+|3||MW1||Bonk||3||[[File:Carbine_Icon.png|32px]]||6
+|-
+|3||MEW||Veil||1||[[File:Celeste_Icon.png|32px]]||6
+|-
+|4||QA||WubbyBay||2||[[File:Shiv_Icon.png|32px]]||7
+|-
+|5||MW1||WashQuasar||2||[[File:Jin_Icon.png|32px]]||8
+|-
+|6||MW1||Bonk||1||[[File:Carbine_Icon.png|32px]]||6
+|-
+|}
+</div>
+</div>
+
+===Overall Statistics===
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 250px;">
+====Total Kills====
+{| class="wikitable sortable" style="text-align:center; width:100%"
+|-
+!Player
+!Kills
+|-
+|Goroy||27
+|-
+|WashQuasar||23
+|-
+|Bonk||22
+|-
+|Squid||21
+|-
+|WubbyBay||20
+|-
+|Anointed||19
+|-
+|thelegend1902||19
+|-
+|DTF||18
+|-
+|Generic||15
+|-
+|Dingo||14
+|-
+|Jesus Christ||14
+|-
+|Veil||13
+|-
+|Shinx||11
+|-
+|Rakdoslord||9
+|-
+|Sunfish||9
+|-
+|roughly 44 ducks||9
+|-
+|Atalius||8
+|-
+|Dumbcus||8
+|-
+|Gemi||8
+|-
+|MainJam||8
+|-
+|NotABurger||8
+|-
+|Secondhn||8
+|-
+|Roadpizza||6
+|-
+|Taricha||6
+|-
+|whit||6
+|-
+|Sleepy Rowlet||5
+|-
+|Asundae||4
+|-
+|TTV PajamaGameLord||4
+|-
+|TheDreamingManTV||4
+|-
+|Dinaokin||3
+|-
+|Sans The Dog||3
+|-
+|Nabbitman||1
+|-
+|Slapty||1
+|-
+|scotty||1
+|-
+|BeastBurn||0
+|-
+|CNS BeastBurn||0
+|-
+|CNS Slapty||0
+|-
+|}
+</div>
+
+<div style="flex: 1; min-width: 250px;">
+====Total Damage====
+{| class="wikitable sortable" style="text-align:center; width:100%"
+|-
+!Player
+!Damage
+|-
+|Bonk||123,622
+|-
+|Goroy||109,043
+|-
+|thelegend1902||81,768
+|-
+|Dingo||79,919
+|-
+|Veil||77,963
+|-
+|DTF||76,897
+|-
+|WubbyBay||72,816
+|-
+|Squid||67,155
+|-
+|Shinx||65,598
+|-
+|Generic||65,593
+|-
+|Roadpizza||63,569
+|-
+|WashQuasar||61,262
+|-
+|roughly 44 ducks||60,833
+|-
+|Jesus Christ||55,721
+|-
+|Anointed||52,427
+|-
+|MainJam||44,250
+|-
+|Secondhn||43,465
+|-
+|Gemi||40,939
+|-
+|Dumbcus||39,238
+|-
+|NotABurger||38,622
+|-
+|Atalius||37,070
+|-
+|Taricha||35,980
+|-
+|Rakdoslord||30,991
+|-
+|Sunfish||30,933
+|-
+|Dinaokin||28,757
+|-
+|Sleepy Rowlet||27,803
+|-
+|TheDreamingManTV||25,762
+|-
+|whit||25,478
+|-
+|TTV PajamaGameLord||25,221
+|-
+|Sans The Dog||19,038
+|-
+|Asundae||18,699
+|-
+|Nabbitman||16,484
+|-
+|scotty||9,015
+|-
+|Slapty||8,976
+|-
+|Mista||7,189
+|-
+|CNS Slapty||4,599
+|-
+|Pair of Nuts||3,264
+|-
+|}
+</div>
+
+<div style="flex: 1; min-width: 250px;">
+====Total Healing====
+{| class="wikitable sortable" style="text-align:center; width:100%"
+|-
+!Player
+!Healing
+|-
+|roughly 44 ducks||41,531
+|-
+|Rakdoslord||37,028
+|-
+|whit||36,395
+|-
+|Sunfish||30,145
+|-
+|DTF||29,189
+|-
+|Dinaokin||10,270
+|-
+|DTF||9,644
+|-
+|Anointed||8,391
+|-
+|Jesus Christ||8,271
+|-
+|Secondhn||6,050
+|-
+|Gemi||5,818
+|-
+|Nabbitman||3,877
+|-
+|Goroy||3,390
+|-
+|Sleepy Rowlet||2,834
+|-
+|Asundae||2,805
+|-
+|TTV PajamaGameLord||2,108
+|-
+|WubbyBay||1,688
+|-
+|Veil||1,574
+|-
+|MainJam||1,355
+|-
+|Sans The Dog||1,536
+|-
+|NotABurger||1,471
+|-
+|Dumbcus||1,433
+|-
+|Roadpizza||1,313
+|-
+|WashQuasar||897
+|-
+|Squid||851
+|-
+|Dingo||647
+|-
+|thelegend1902||652
+|-
+|scotty||587
+|-
+|Bonk||557
+|-
+|TheDreamingManTV||465
+|-
+|CNS Slapty||445
+|-
+|Slapty||425
+|-
+|BeastBurn||230
+|-
+|CNS BeastBurn||225
+|-
+|Mista||225
+|-
+|Generic||125
+|-
+|Shinx||111
+|-
+|}
+</div>
+</div>

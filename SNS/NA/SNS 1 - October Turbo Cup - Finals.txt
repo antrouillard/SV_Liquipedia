@@ -20,6 +20,10 @@
 ** The 12 remaining teams will play 6 games to compete for the first place in scores.
 <section end="Format"/>
 
+==Hunter Bans==
+* After game 3, the top 3 hunters in pickrate were banned. 
+* The banned hunters for this series were [[File:Shiv_Icon.png|35px]] Shiv, [[File:Zeph_Icon.png|35px]] Zeph and [[File:Saros_Icon.png|35px]] Saros.
+
 ==Results==
 {{Bracket|Bracket/2|id=SNSNAFNS01
 
@@ -41,3 +45,250 @@
 	|opponent12={{TeamOpponent|QA				|score=16}}
 }}
 }}
+
+==Additional Data==
+
+===Hunter Statistics after Game 3===
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Hunter
+!Pickrate
+!# of Picks
+|-
+|style="background-color:#570202;"|[[File:Shiv_Icon.png|32px]] Shiv
+|style="background-color:#570202;"|50.00%
+|style="background-color:#570202;"|18
+|-
+|style="background-color:#570202;"|[[File:Zeph_Icon.png|32px]] Zeph
+|style="background-color:#570202;"|44.44%
+|style="background-color:#570202;"|16
+|-
+|style="background-color:#570202;"|[[File:Saros_Icon.png|32px]] Saros
+|style="background-color:#570202;"|33.33%
+|style="background-color:#570202;"|12
+|-
+|[[File:Nyx_Icon.png|32px]] Nyx
+|27.78%
+|10
+|-
+|[[File:Brall_Icon.png|32px]] Brall
+|25.00%
+|9
+|-
+|[[File:Kingpin_Icon.png|32px]] Kingpin
+|16.67%
+|6
+|-
+|[[File:Carbine_Icon.png|32px]] Carbine
+|16.67%
+|6
+|-
+|[[File:Tetra_Icon.png|32px]] Tetra
+|13.89%
+|5
+|-
+|[[File:Oath_Icon.png|32px]] Oath
+|8.33%
+|3
+|-
+|[[File:Elluna_Icon.png|32px]] Elluna
+|8.33%
+|3
+|-
+|[[File:Myth_Icon.png|32px]] Myth
+|8.33%
+|3
+|-
+|[[File:Felix_Icon.png|32px]] Felix
+|8.33%
+|3
+|-
+|[[File:Beebo_Icon.png|32px]] Beebo
+|8.33%
+|3
+|-
+|[[File:Wukong_Icon.png|32px]] Wukong
+|8.33%
+|3
+|-
+|[[File:Mercury_Icon.png|32px]] Mercury
+|8.33%
+|3
+|-
+|[[File:Void_Icon.png|32px]] Void
+|5.56%
+|2
+|-
+|[[File:Crysta_Icon.png|32px]] Crysta
+|5.56%
+|2
+|-
+|[[File:Ghost_Icon.png|32px]] Ghost
+|2.78%
+|1
+|-
+|[[File:Bishop_Icon.png|32px]] Bishop
+|0.00%
+|0
+|-
+|[[File:Celeste_Icon.png|32px]] Celeste
+|0.00%
+|0
+|-
+|[[File:Jin_Icon.png|32px]] Jin
+|0.00%
+|0
+|-
+|[[File:Joule_Icon.png|32px]] Joule
+|0.00%
+|0
+|-
+|[[File:Shrike_Icon.png|32px]] Shrike
+|0.00%
+|0
+|-
+|[[File:Eva_Icon.png|32px]] Eva
+|0.00%
+|0
+|-
+|[[File:Hudson_Icon.png|32px]] Hudson
+|0.00%
+|0
+|-
+|}
+
+===Hunter Statistics after Game 6===
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Hunter
+!Pickrate
+!# of Picks
+!# of Wins
+|-
+|[[File:Brall_Icon.png|32px]] Brall
+|30.56%
+|22
+|5
+|-
+|style="background-color:#570202;"|[[File:Shiv_Icon.png|32px]] Shiv (Banned 4-6)
+|style="background-color:#570202;"|25.00%
+|style="background-color:#570202;"|18
+|style="background-color:#570202;"|2
+|-
+|style="background-color:#570202;"|[[File:Zeph_Icon.png|32px]] Zeph (Banned 4-6)
+|style="background-color:#570202;"|22.22%
+|style="background-color:#570202;"|16
+|style="background-color:#570202;"|
+|-
+|[[File:Carbine_Icon.png|32px]] Carbine
+|22.22%
+|16
+|2
+|-
+|[[File:Nyx_Icon.png|32px]] Nyx
+|22.22%
+|16
+|1
+|-
+|[[File:Kingpin_Icon.png|32px]] Kingpin
+|22.22%
+|16
+|
+|-
+|[[File:Ghost_Icon.png|32px]] Ghost
+|19.44%
+|14
+|1
+|-
+|style="background-color:#570202;"|[[File:Saros_Icon.png|32px]] Saros (Banned 4-6)
+|style="background-color:#570202;"|16.67%
+|style="background-color:#570202;"|12
+|style="background-color:#570202;"|3
+|-
+|[[File:Tetra_Icon.png|32px]] Tetra
+|16.67%
+|12
+|
+|-
+|[[File:Myth_Icon.png|32px]] Myth
+|13.89%
+|10
+|1
+|-
+|[[File:Oath_Icon.png|32px]] Oath
+|13.89%
+|10
+|2
+|-
+|[[File:Mercury_Icon.png|32px]] Mercury
+|11.11%
+|8
+|1
+|-
+|[[File:Wukong_Icon.png|32px]] Wukong
+|9.72%
+|7
+|
+|-
+|[[File:Elluna_Icon.png|32px]] Elluna
+|9.72%
+|7
+|
+|-
+|[[File:Beebo_Icon.png|32px]] Beebo
+|8.33%
+|6
+|
+|-
+|[[File:Crysta_Icon.png|32px]] Crysta
+|6.94%
+|5
+|
+|-
+|[[File:Joule_Icon.png|32px]] Joule
+|6.94%
+|5
+|
+|-
+|[[File:Felix_Icon.png|32px]] Felix
+|5.56%
+|4
+|
+|-
+|[[File:Shrike_Icon.png|32px]] Shrike
+|5.56%
+|4
+|
+|-
+|[[File:Void_Icon.png|32px]] Void
+|4.17%
+|3
+|
+|-
+|[[File:Celeste_Icon.png|32px]] Celeste
+|4.17%
+|3
+|
+|-
+|[[File:Bishop_Icon.png|32px]] Bishop
+|2.78%
+|2
+|
+|-
+|[[File:Jin_Icon.png|32px]] Jin
+|0.00%
+|0
+|
+|-
+|[[File:Hudson_Icon.png|32px]] Hudson
+|0.00%
+|0
+|
+|-
+|[[File:Eva_Icon.png|32px]] Eva
+|0.00%
+|0
+|
+|-
+|}
+

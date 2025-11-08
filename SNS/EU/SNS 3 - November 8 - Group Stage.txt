@@ -44,10 +44,13 @@
 |width=300px|{{Flag|eu}}{{Team|ROG}}
 |-
 |width=300px|{{Flag|eu}}{{Team|ATK}}
+|
 |-
 |width=300px|{{Flag|eu}}{{Team|Pôle Emploi}}
+|
 |-
 |width=300px|{{Flag|eu}}{{Team|First Line Front}}
+|
 |-
 |width=300px|{{Flag|eu}}{{Team|Fish}}
 |
@@ -76,56 +79,75 @@
 |name1=Group Stage
 |name2=Overall Standings
 |This=2
+|hide-showall=true
 }}
 {{Tabs dynamic/tab|1}}
 {{Matchlist|id=SNSEUGRP03
 |M1header=GROUP A
 |M2header=GROUP B
-|M1={{Match|finished=0
+|M1={{Match|finished=1
     |p_kill=1 |p1=20 |p2=15 |p3=12 |p4=10 |p5=8 |p6=6 |p7=4 |p8=3 |p9=2 |p10=1 |p11=0 |p12=0
     |twitch=madmagical|youtube=
-    |opponent1={{TeamOpponent|One Quick Win}}
-    |opponent2={{TeamOpponent|Apex Hunters}}
-    |opponent3={{TeamOpponent|Abyss Trinity}}
-    |opponent4={{TeamOpponent|ATK}}
-    |opponent5={{TeamOpponent|Pôle Emploi}}
-    |opponent6={{TeamOpponent|First Line Front}}
-    |opponent7={{TeamOpponent|----:-}}
-    |opponent8={{TeamOpponent|HAT SOUP COUP}}
-    |opponent9={{TeamOpponent|Kinetic}}
-    |opponent10={{TeamOpponent|Old N Washed}}
-    |opponent11={{TeamOpponent|AMOGUS}}
-    |opponent12={{TeamOpponent|Sweatervive}}
+	|map1={{Map|date=November 07, 2025 - 19:00 {{abbr/CET}}|map=Skylands|finished=true|stats=}}
+    |map2={{Map|date=November 07, 2025 - 19:30 {{abbr/CET}}|map=Skylands|finished=true|stats=}}
+	|map3={{Map|date=November 07, 2025 - 20:00 {{abbr/CET}}|map=Skylands|finished=true|stats=}}
+    |map4={{Map|date=November 07, 2025 - 20:30 {{abbr/CET}}|map=Skylands|finished=true|stats=}}
+    |opponent1={{TeamOpponent|One Quick Win		|m1={{MS|5|3}}|m2={{MS|1|13}}|m3={{MS|9|2}}|m4={{MS|5|1}}}}
+    |opponent2={{TeamOpponent|Apex Hunters		|m1={{MS|3|12}}|m2={{MS|11|1}}|m3={{MS|2|20}}|m4={{MS|11|2}}}}
+    |opponent3={{TeamOpponent|Abyss Trinity		|m1={{MS|7|8}}|m2={{MS|10|1}}|m3={{MS|10|2}}|m4={{MS|9|2}}}}
+    |opponent4={{TeamOpponent|ATK				|m1={{MS|2|8}}|m2={{MS|12|0}}|m3={{MS|7|2}}|m4={{MS|7|0}}}}
+    |opponent5={{TeamOpponent|Pôle Emploi		|m1={{MS|8|3}}|m2={{MS|9|5}}|m3={{MS|4|15}}|m4={{MS|4|9}}}}
+    |opponent6={{TeamOpponent|First Line Front	|m1={{MS|9|1}}|m2={{MS|8|2}}|m3={{MS|12|1}}|m4={{MS|8|1}}}}
+    |opponent7={{TeamOpponent|Fish				|m1={{MS|11|0}}|m2={{MS|4|5}}|m3={{MS|6|1}}|m4={{MS|10|0}}}}
+    |opponent8={{TeamOpponent|HAT SOUP COUP		|m1={{MS|12|0}}|m2={{MS|5|5}}|m3={{MS|11|4}}|m4={{MS|12|0}}}}
+    |opponent9={{TeamOpponent|Kinetic			|m1={{MS|4|5}}|m2={{MS|2|9}}|m3={{MS|8|1}}|m4={{MS|3|6}}}}
+    |opponent10={{TeamOpponent|Old N Washed		|m1={{MS|1|11}}|m2={{MS|7|10}}|m3={{MS|1|21}}|m4={{MS|1|20}}}}
+    |opponent11={{TeamOpponent|AMOGUS			|m1={{MS|10|0}}|m2={{MS|6|1}}|m3={{MS|5|0}}|m4={{MS|2|3}}}}
+    |opponent12={{TeamOpponent|Sweatervive		|m1={{MS|6|2}}|m2={{MS|3|5}}|m3={{MS|3|5}}|m4={{MS|6|6}}}}
 }}
-|M2={{Match|finished=0
+|M2={{Match|finished=1
     |p_kill=1 |p1=20 |p2=15 |p3=12 |p4=10 |p5=8 |p6=6 |p7=4 |p8=3 |p9=2 |p10=1 |p11=0 |p12=0
     |twitch=madmagical|youtube=
-    |opponent1={{TeamOpponent|Ayayaya}}
-    |opponent2={{TeamOpponent|Nerf Shrike}}
-    |opponent3={{TeamOpponent|Reign Olonox GPA}}
-    |opponent4={{TeamOpponent|TBD}}
-    |opponent5={{TeamOpponent|TBD}}
-    |opponent6={{TeamOpponent|TBD}}
-    |opponent7={{TeamOpponent|TBD}}
-    |opponent8={{TeamOpponent|TBD}}
-    |opponent9={{TeamOpponent|TBD}}
-    |opponent10={{TeamOpponent|TBD}}
-    |opponent11={{TeamOpponent|TBD}}
-    |opponent12={{TeamOpponent|TBD}}
+	|map1={{Map|date=November 07, 2025 - 21:00 {{abbr/CET}}|map=Skylands|finished=true|stats=}}
+    |map2={{Map|date=November 07, 2025 - 21:30 {{abbr/CET}}|map=Skylands|finished=true|stats=}}
+	|map3={{Map|date=November 07, 2025 - 22:00 {{abbr/CET}}|map=Skylands|finished=true|stats=}}
+    |map4={{Map|date=November 07, 2025 - 22:30 {{abbr/CET}}|map=Skylands|finished=true|stats=}}
+    |opponent1={{TeamOpponent|Ayayaya			|m1={{MS|9|1}}|m2={{MS|3|2}}|m3={{MS|1|13}}|m4={{MS|4|2}}}}
+    |opponent2={{TeamOpponent|Nerf Shrike		|m1={{MS|7|2}}|m2={{MS|1|16}}|m3={{MS|6|5}}|m4={{MS|2|8}}}}
+    |opponent3={{TeamOpponent|ROG				|m1={{MS|6|0}}|m2={{MS|6|2}}|m3={{MS|11|4}}|m4={{MS|3|5}}}}
+    |opponent4={{TeamOpponent|Pôle Emploi		|m1={{MS|2|15}}|m2={{MS|5|6}}|m3={{MS|3|7}}|m4={{MS|10|3}}}}
+    |opponent5={{TeamOpponent|One Quick Win		|m1={{MS|5|3}}|m2={{MS|4|1}}|m3={{MS|7|1}}|m4={{MS|8|0}}}}
+    |opponent6={{TeamOpponent|Sweatervive		|m1={{MS|1|11}}|m2={{MS|10|5}}|m3={{MS|2|10}}|m4={{MS|7|8}}}}
+    |opponent7={{TeamOpponent|AMOGUS			|m1={{MS|11|0}}|m2={{MS|12|0}}|m3={{MS|12|0}}|m4={{MS|9|0}}}}
+    |opponent8={{TeamOpponent|ATK				|m1={{MS|10|1}}|m2={{MS|9|3}}|m3={{MS|8|1}}|m4={{MS|6|5}}}}
+    |opponent9={{TeamOpponent|Fish				|m1={{MS|12|0}}|m2={{MS|7|2}}|m3={{MS|5|4}}|m4={{MS|1|12}}}}
+    |opponent10={{TeamOpponent|Abyss Trinity	|m1={{MS|3|7}}|m2={{MS|2|14}}|m3={{MS|10|3}}|m4={{MS|11|4}}}}
+    |opponent11={{TeamOpponent|HAT SOUP COUP	|m1={{MS|8|6}}|m2={{MS|8|0}}|m3={{MS|4|8}}|m4={{MS|5|5}}}}
+    |opponent12={{TeamOpponent|First Line Front	|m1={{MS|4|3}}|m2={{MS|11|0}}|m3={{MS|9|2}}|m4={{MS|12|0}}}}
 }}
 }}
 {{Tabs dynamic/tab|2}}
-{{box|start|padding=2em}}
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: flex-start;">
+<div style="flex: 0 1 auto; min-width: 250px;">
 <section begin="Results"/>
-{{FfaStandings|title=Group Stage Standings
-|bg=1-10=up, 11=down, 12-13=up, 14-40=down
+{{FfaStandings|title=Group A Standings
+|bg=1-3=up, 4-12=down
 <!-- Rounds -->
-|round1={{Round|matches=SNSEUGRP03_0001,SNSEUGRP03_0002|started=0|finished=0}}
+|round1={{Round|matches=SNSEUGRP03_0001|started=1|finished=1}}
 }}<section end="Results"/>
-{{box|break|padding=2em}}<br />
+</div>
+<div style="flex: 0 1 auto; min-width: 250px;">
+<section begin="Results"/>
+{{FfaStandings|title=Group B Standings
+|bg=1-9=up, 10-12=down
+<!-- Rounds -->
+|round1={{Round|matches=SNSEUGRP03_0002|started=1|finished=1}}
+}}<section end="Results"/>
+</div>
+</div>
+<br />
 {{Legend|up=1|down=1
 |uptitle=Advanced to '''[[SUPERVIVE/SNS/EU/November/2/Finals|Finals]]'''
 |downtitle=Eliminated
 }}
-{{box|end|padding=2em}}
 {{Tabs dynamic/end}}
