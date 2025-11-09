@@ -108,18 +108,18 @@
 
 ===Prize Pool===
 {{TeamPrizePool
-|{{Slot|usdprize=500|{{Opponent|TBD}}}}
-|{{Slot|usdprize=|{{Opponent|TBD}}}}
-|{{Slot|usdprize=|{{Opponent|TBD}}}}
-|{{Slot|{{Opponent|TBD}}}}
-|{{Slot|{{Opponent|TBD}}}}
-|{{Slot|{{Opponent|TBD}}}}
-|{{Slot|{{Opponent|TBD}}}}
-|{{Slot|{{Opponent|TBD}}}}
-|{{Slot|{{Opponent|TBD}}}}
-|{{Slot|{{Opponent|TBD}}}}
-|{{Slot|{{Opponent|TBD}}}}
-|{{Slot|{{Opponent|TBD}}}}
+|{{Slot|usdprize=300|{{Opponent|Apex Hunters}}}}
+|{{Slot|usdprize=200|{{Opponent|ROG}}}}
+|{{Slot|usdprize=|{{Opponent|Abyss Trinity}}}}
+|{{Slot|{{Opponent|Sweatervive}}}}
+|{{Slot|{{Opponent|Old N Washed}}}}
+|{{Slot|{{Opponent|Ayayaya}}}}
+|{{Slot|{{Opponent|Kinetic}}}}
+|{{Slot|{{Opponent|Pôle Emploi}}}}
+|{{Slot|{{Opponent|HAT SOUP COUP}}}}
+|{{Slot|{{Opponent|One Quick Win}}}}
+|{{Slot|{{Opponent|Fish}}}}
+|{{Slot|{{Opponent|Nerf Shrike}}}}
 }}
 
 ==Group A : Participants==

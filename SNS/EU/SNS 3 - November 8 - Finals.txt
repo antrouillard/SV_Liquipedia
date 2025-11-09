@@ -24,21 +24,21 @@
 {{Bracket|Bracket/2|id=SNSEUNOV03
 
 <!-- Grand Final -->
-|R1M1={{Match|finished=0
+|R1M1={{Match|finished=1
 	|p_kill=1
 	|twitch=|youtube=
-	|opponent1={{TeamOpponent|Apex Hunters}}
-	|opponent2={{TeamOpponent|Kinetic}}
-	|opponent3={{TeamOpponent|Old N Washed}}
-	|opponent4={{TeamOpponent|One Quick Win}}
-	|opponent5={{TeamOpponent|Abyss Trinity}}
-	|opponent6={{TeamOpponent|Ayayaya}}
-	|opponent7={{TeamOpponent|Pôle emploi}}
-	|opponent8={{TeamOpponent|Fish}}
-	|opponent9={{TeamOpponent|HAT SOUP COUP}}
-	|opponent10={{TeamOpponent|Nerf Shrike}}
-	|opponent11={{TeamOpponent|ROG}}
-	|opponent12={{TeamOpponent|Sweatervive}}
+	|opponent1={{TeamOpponent|Apex Hunters|score=134}}
+	|opponent2={{TeamOpponent|ROG|score=120}}
+	|opponent3={{TeamOpponent|Abyss Trinity|score=98}}
+	|opponent4={{TeamOpponent|Sweatervive|score=93}}
+	|opponent5={{TeamOpponent|Old N Washed|score=87}}
+	|opponent6={{TeamOpponent|Ayayaya|score=87}}
+	|opponent7={{TeamOpponent|Kinetic|score=48}}
+	|opponent8={{TeamOpponent|Pôle Emploi|score=42}}
+	|opponent9={{TeamOpponent|HAT SOUP COUP|score=39}}
+	|opponent10={{TeamOpponent|One Quick Win|score=36}}
+	|opponent11={{TeamOpponent|Fish|score=27}}
+	|opponent12={{TeamOpponent|Nerf Shrike|score=17}}
 }}
 }}
 

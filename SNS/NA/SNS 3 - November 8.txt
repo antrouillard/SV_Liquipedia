@@ -92,18 +92,18 @@
 
 ===Prize Pool===
 {{TeamPrizePool
-|{{Slot|usdprize=500|{{Opponent|TBD}}}}
-|{{Slot|usdprize=|{{Opponent|TBD}}}}
-|{{Slot|usdprize=|{{Opponent|TBD}}}}
-|{{Slot|{{Opponent|TBD}}}}
-|{{Slot|{{Opponent|TBD}}}}
-|{{Slot|{{Opponent|TBD}}}}
-|{{Slot|{{Opponent|TBD}}}}
-|{{Slot|{{Opponent|TBD}}}}
-|{{Slot|{{Opponent|TBD}}}}
-|{{Slot|{{Opponent|TBD}}}}
-|{{Slot|{{Opponent|TBD}}}}
-|{{Slot|{{Opponent|TBD}}}}
+|{{Slot|usdprize=300|{{Opponent|The Last Door}}}}
+|{{Slot|usdprize=200|{{Opponent|Last Chance}}}}
+|{{Slot|usdprize=|{{Opponent|BAP}}}}
+|{{Slot|{{Opponent|Supervive Illuminati}}}}
+|{{Slot|{{Opponent|GAY}}}}
+|{{Slot|{{Opponent|Sqawkers Appreciate Waddling}}}}
+|{{Slot|{{Opponent|BANNED}}}}
+|{{Slot|{{Opponent|DDM}}}}
+|{{Slot|{{Opponent|Queue Arena}}}}
+|{{Slot|{{Opponent|Train Deaths Only}}}}
+|{{Slot|{{Opponent|Biroufs Muscles}}}}
+|{{Slot|{{Opponent|The Clyde Show}}}}
 }}
 
 ==Participants==
@@ -187,21 +187,21 @@
 {{Bracket|Bracket/2|id=SNSNANOV08
 
 <!-- Grand Final -->
-|R1M1={{Match|finished=0
+|R1M1={{Match|finished=true
 	|p_kill=1
 	|twitch=|youtube=
-	|opponent1={{TeamOpponent|Last Chance}}
-	|opponent2={{TeamOpponent|Sqawkers Appreciate Waddling}}
-	|opponent3={{TeamOpponent|BAP}}
-	|opponent4={{TeamOpponent|Supervive Illuminati}}
-	|opponent5={{TeamOpponent|The Last Door}}
-	|opponent6={{TeamOpponent|BANNED}}
-	|opponent7={{TeamOpponent|Queue Arena}}
-	|opponent8={{TeamOpponent|DDM}}
-	|opponent9={{TeamOpponent|The Clyde Show}}
-	|opponent10={{TeamOpponent|GAY}}
-	|opponent11={{TeamOpponent|Train Deaths Only}}
-	|opponent12={{TeamOpponent|Biroufs Muscles}}
+	|opponent1={{TeamOpponent|Last Chance |score=99}}
+	|opponent2={{TeamOpponent|Sqawkers Appreciate Waddling |score=65}}
+	|opponent3={{TeamOpponent|BAP |score=97}}
+	|opponent4={{TeamOpponent|Supervive Illuminati |score=92}}
+	|opponent5={{TeamOpponent|The Last Door |score=174}}
+	|opponent6={{TeamOpponent|BANNED |score=56}}
+	|opponent7={{TeamOpponent|Queue Arena |score=37}}
+	|opponent8={{TeamOpponent|DDM |score=56}}
+	|opponent9={{TeamOpponent|The Clyde Show |score=3}}
+	|opponent10={{TeamOpponent|GAY |score=90}}
+	|opponent11={{TeamOpponent|Train Deaths Only |score=34}}
+	|opponent12={{TeamOpponent|Biroufs Muscles |score=8}}
 }}
 }}
 
