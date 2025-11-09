@@ -72,6 +72,348 @@
 |position=Observer
 |b1=MadMagical
 }}
-{{box|end}}
-
 {{Tabs dynamic/end}}
+
+==Additional Data==
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 300px;">
+====Most Damage Each Game====
+{| class="wikitable sortable" style="text-align:center; width:100%"
+|-
+!Match #
+!Team
+!Player
+!Place
+!Hunter
+!Damage
+|-
+|1||1QW||veloti#1365||3||[[File:Saros_Icon.png|32px]]||22,980
+|-
+|2||AYA||Weyan#TTV||5||[[File:Ghost_Icon.png|32px]]||17,943
+|-
+|3||APX||L1z4rdo#5788||1||[[File:Ghost_Icon.png|32px]]||34,479
+|-
+|4||CAF||Doudzer#5980||1||[[File:Saros_Icon.png|32px]]||24,774
+|-
+|5||APX||L1z4rdo#5788||1||[[File:Ghost_Icon.png|32px]]||34,494
+|-
+|6||APX||L1z4rdo#5788||1||[[File:Ghost_Icon.png|32px]]||21,481
+|-
+|}
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+====Most Healing Each Game====
+{| class="wikitable sortable" style="text-align:center; width:100%"
+|-
+!Match #
+!Team
+!Player
+!Place
+!Hunter
+!Healing
+|-
+|1||AYA||Breeves#7176||5||[[File:Oath_Icon.png|32px]]||8,659
+|-
+|2||AYA||Breeves#7176||5||[[File:Oath_Icon.png|32px]]||6,212
+|-
+|3||APX||Vipero#V1P||1||[[File:Zeph_Icon.png|32px]]||13,616
+|-
+|4||AYA||Breeves#7176||3||[[File:Oath_Icon.png|32px]]||7,158
+|-
+|5||AYA||Breeves#7176||7||[[File:Oath_Icon.png|32px]]||9,527
+|-
+|6||APX||Vipero#V1P||1||[[File:Zeph_Icon.png|32px]]||8,693
+|-
+|}
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+====Most Kills Each Game====
+{| class="wikitable sortable" style="text-align:center; width:100%"
+|-
+!Match #
+!Team
+!Player
+!Place
+!Hunter
+!Kills
+|-
+|1||OLD||Knemo#0001||8||[[File:Myth_Icon.png|32px]]||6
+|-
+|2||OLD||who dis#29||2||[[File:Elluna_Icon.png|32px]]||6
+|-
+|3||APX||Rhapsodie#1234||1||[[File:Myth_Icon.png|32px]]||9
+|-
+|4||AYA||Weyan#TTV||3||[[File:Ghost_Icon.png|32px]]||7
+|-
+|4||OLD||Snow#0000||4||[[File:Kingoi_Icon.png|32px]]||7
+|-
+|5||CAF||Doudzer#5980||1||[[File:Saros_Icon.png|32px]]||7
+|-
+|6||APX||L1z4rdo#5788||1||[[File:Ghost_Icon.png|32px]]||8
+|-
+|6||APX||L1z4rdo#5788||1||[[File:Ghost_Icon.png|32px]]||6
+|-
+|}
+</div>
+</div>
+
+===Overall Statistics===
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 250px;">
+====Total Kills====
+{| class="wikitable sortable" style="text-align:center; width:100%"
+|-
+!Player
+!Kills
+|-
+|L1z4rdo#5788||26
+|-
+|Weyan#TTV||23
+|-
+|Rhapsodie#1234||22
+|-
+|GPA#KCS||20
+|-
+|Crystoll#0001||19
+|-
+|Olonox#MK2||19
+|-
+|Syk Yr Void#YT||18
+|-
+|Moawik#6063||16
+|-
+|BiBiBlooX#EUW||14
+|-
+|Vipero#V1P||14
+|-
+|Knemo#0001||13
+|-
+|Snow#0000||12
+|-
+|who dis#29||12
+|-
+|reign#bish||11
+|-
+|CapnHammered#69||10
+|-
+|MYSTIC#0000||10
+|-
+|Mownster#69||10
+|-
+|catheist#413||9
+|-
+|Doudzer#5980||9
+|-
+|Breeves#7176||6
+|-
+|KROKUS#XD||5
+|-
+|Lumile_#00||5
+|-
+|TrepA#FR||5
+|-
+|RanterGMR#G1GN||4
+|-
+|SIX PAST NOON#1206||4
+|-
+|groslombaire#FSH||4
+|-
+|symbiose#5220||4
+|-
+|I Drive#FSH||3
+|-
+|Kazumoe#SKRR||3
+|-
+|Sunshies#4258||3
+|-
+|milkhoney#2358||3
+|-
+|LePiggy#FSH||2
+|-
+|Trepaliu M#7915||2
+|-
+|Le mec gentil#8050||1
+|-
+|Maddo#EUFR||1
+|-
+|LePiggy#FSH||0
+|-
+|veloti#1365||0
+|-
+|}
+</div>
+
+<div style="flex: 1; min-width: 250px;">
+====Total Damage====
+{| class="wikitable sortable" style="text-align:center; width:100%"
+|-
+!Player
+!Damage
+|-
+|L1z4rdo#5788||120,809
+|-
+|Rhapsodie#1234||102,470
+|-
+|Weyan#TTV||87,359
+|-
+|Crystoll#0001||77,739
+|-
+|Olonox#MK2||76,683
+|-
+|Moawik#6063||72,851
+|-
+|Syk Yr Void#YT||69,716
+|-
+|Knemo#0001||67,969
+|-
+|reign#bish||66,365
+|-
+|Mownster#69||54,458
+|-
+|BiBiBlooX#EUW||53,840
+|-
+|who dis#29||53,688
+|-
+|Vipero#V1P||49,790
+|-
+|Doudzer#5980||48,856
+|-
+|veloti#1365||46,467
+|-
+|catheist#413||45,774
+|-
+|GPA#KCS||44,183
+|-
+|Snow#0000||43,130
+|-
+|KROKUS#XD||41,369
+|-
+|RanterGMR#G1GN||40,590
+|-
+|Breeves#7176||37,899
+|-
+|TrepA#FR||37,209
+|-
+|Sunshies#4258||36,812
+|-
+|Le mec gentil#8050||36,709
+|-
+|MYSTIC#0000||33,470
+|-
+|symbiose#5220||29,064
+|-
+|CapnHammered#69||29,604
+|-
+|Maddo#EUFR||26,095
+|-
+|Kazumoe#SKRR||25,773
+|-
+|milkhoney#2358||23,117
+|-
+|LePiggy#FSH||22,572
+|-
+|SIX PAST NOON#1206||21,982
+|-
+|I Drive#FSH||21,176
+|-
+|Lumile_#00||19,818
+|-
+|JoBo#2404||17,181
+|-
+|groslombaire#FSH||16,665
+|-
+|Trepaliu M#7915||10,655
+|-
+|}
+</div>
+
+<div style="flex: 1; min-width: 250px;">
+====Total Healing====
+{| class="wikitable sortable" style="text-align:center; width:100%"
+|-
+!Player
+!Healing
+|-
+|Breeves#7176||39,178
+|-
+|Vipero#V1P||39,039
+|-
+|Mownster#69||29,743
+|-
+|JoBo#2404||28,388
+|-
+|who dis#29||23,737
+|-
+|Lumile_#00||16,307
+|-
+|SIX PAST NOON#1206||11,605
+|-
+|reign#bish||4,553
+|-
+|Sunshies#4258||3,780
+|-
+|Olonox#MK2||3,715
+|-
+|Maddo#EUFR||3,601
+|-
+|Weyan#TTV||3,422
+|-
+|Snow#0000||3,083
+|-
+|MYSTIC#0000||2,985
+|-
+|Kazumoe#SKRR||2,609
+|-
+|veloti#1365||2,526
+|-
+|catheist#413||2,495
+|-
+|GPA#KCS||2,399
+|-
+|BiBiBlooX#EUW||1,883
+|-
+|Doudzer#5980||1,657
+|-
+|groslombaire#FSH||1,565
+|-
+|L1z4rdo#5788||1,545
+|-
+|Moawik#6063||1,452
+|-
+|LePiggy#FSH||1,433
+|-
+|milkhoney#2358||1,136
+|-
+|TrepA#FR||1,009
+|-
+|Syk Yr Void#YT||915
+|-
+|I Drive#FSH||898
+|-
+|Crystoll#0001||740
+|-
+|CapnHammered#69||725
+|-
+|Knemo#0001||698
+|-
+|symbiose#5220||598
+|-
+|Le mec gentil#8050||403
+|-
+|Trepaliu M#7915||387
+|-
+|KROKUS#XD||256
+|-
+|Rhapsodie#1234||154
+|-
+|RanterGMR#G1GN||0
+|-
+|}
+</div>
+</div>
+
+===Country Representation===
+{{Country representation|staff=true}}
