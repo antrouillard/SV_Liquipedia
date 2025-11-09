@@ -77,5 +77,350 @@
 
 ==Additional Data==
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 300px;">
+====Most Damage Each Game====
+{| class="wikitable sortable" style="text-align:center; width:100%"
+|-
+!Match #
+!Team
+!Player
+!Place
+!Hunter
+!Damage
+|-
+|1||TLD||lodds#catt||1||[[File:Saros_Icon.png|32px]]||38,744
+|-
+|2||TLD||lodds#catt||1||[[File:Saros_Icon.png|32px]]||31,665
+|-
+|3||TLD||lodds#catt||1||[[File:Saros_Icon.png|32px]]||30,982
+|-
+|4||TLD||PhenomEX#D1FF||1||[[File:Ghost_Icon.png|32px]]||26,165
+|-
+|5||BAP||SHRICHAEL_JORDAN||1||[[File:Myth_Icon.png|32px]]||33,148
+|-
+|6||GAY||afro#doom||5||[[File:Joule_Icon.png|32px]]||19,943
+|-
+|}
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+====Most Healing Each Game====
+{| class="wikitable sortable" style="text-align:center; width:100%"
+|-
+!Match #
+!Team
+!Player
+!Place
+!Hunter
+!Healing
+|-
+|1||LC||Toilet#TJ||2||[[File:Zeph_Icon.png|32px]]||16,797
+|-
+|2||LC||Toilet#TJ||5||[[File:Zeph_Icon.png|32px]]||7,504
+|-
+|3||TLD||Lemur#01||1||[[File:Oath_Icon.png|32px]]||6,205
+|-
+|4||GAY||Halcyon#Pomu||6||[[File:Zeph_Icon.png|32px]]||15,650
+|-
+|5||GAY||Halcyon#Pomu||2||[[File:Zeph_Icon.png|32px]]||16,834
+|-
+|6||GAY||Halcyon#Pomu||5||[[File:Zeph_Icon.png|32px]]||10,977
+|-
+|}
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+====Most Kills Each Game====
+{| class="wikitable sortable" style="text-align:center; width:100%"
+|-
+!Match #
+!Team
+!Player
+!Place
+!Hunter
+!Kills
+|-
+|1||TLD||Lemur#01||1||[[File:Oath_Icon.png|32px]]||7
+|-
+|1||TLD||PhenomEX#D1FF||1||[[File:Nyx_icon.png|32px]]||7
+|-
+|1||TLD||lodds#catt||1||[[File:Saros_Icon.png|32px]]||7
+|-
+|2||TLD||Lemur#01||1||[[File:Oath_Icon.png|32px]]||5
+|-
+|2||TLD||PhenomEX#D1FF||1||[[File:Nyx_icon.png|32px]]||5
+|-
+|3||SQA||Goroy#2667||2||[[File:Saros_Icon.png|32px]]||9
+|-
+|4||LC||Misfit#01||4||[[File:Shiv_Icon.png|32px]]||7
+|-
+|5||BAP||Hight#01||1||[[File:Ghost_Icon.png|32px]]||8
+|-
+|6||SVI||monsta#SV1||1||[[File:Myth_Icon.png|32px]]||7
+|-
+|}
+</div>
+</div>
+
+===Overall Statistics===
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 250px;">
+====Total Kills====
+{| class="wikitable sortable" style="text-align:center; width:100%"
+|-
+!Player
+!Kills
+|-
+|Lemur#01||25
+|-
+|PhenomEX#D1FF||24
+|-
+|lodds#catt||23
+|-
+|Misfit#01||22
+|-
+|Hight#01||19
+|-
+|afro#doom||17
+|-
+|Goroy#2667||15
+|-
+|ralph#tk||15
+|-
+|大江大海江大海 創尋爾宇么特裝吉204||15
+|-
+|jetskii#00||13
+|-
+|Blazerker#SV1||10
+|-
+|Diamond#0416||10
+|-
+|Krilo#NUTT||10
+|-
+|Toilet#TJ||10
+|-
+|monsta#SV1||10
+|-
+|mvches#mvmv||9
+|-
+|Micamunch#TTV||8
+|-
+|SHRICHAEL_JORDAN#pyn||8
+|-
+|Halcyon#Pomu||7
+|-
+|Lejindary#1Jm||7
+|-
+|ThankQ#10Q||7
+|-
+|Protofo#2481||6
+|-
+|thelegend1902#1902||6
+|-
+|Dylanphttv#ttv||5
+|-
+|Mirivïdual#Ily||5
+|-
+|Sunfish#69||4
+|-
+|WubbyBoy#wubz||4
+|-
+|Dill0nFPS#Main||3
+|-
+|Sprocaine#YOLA||3
+|-
+|AdaptiveElk#8375||1
+|-
+|AshTTV#PNJ||1
+|-
+|Birouf#M1F||1
+|-
+|TheTornadoboy#GAP||1
+|-
+|roughly 44 ducks#44||1
+|-
+|Clyde Cash#6942||0
+|-
+|destravous#0001||0
+|-
+|我們一起學貓叫一起喵喵喵喵喵#meow||0
+|-
+|}
+</div>
+
+<div style="flex: 1; min-width: 250px;">
+====Total Damage====
+{| class="wikitable sortable" style="text-align:center; width:100%"
+|-
+!Player
+!Damage
+|-
+|lodds#catt||142,266
+|-
+|SHRICHAEL_JORDAN#pyn||124,488
+|-
+|PhenomEX#D1FF||111,870
+|-
+|Lemur#01||102,315
+|-
+|afro#doom||93,071
+|-
+|monsta#SV1||90,248
+|-
+|Misfit#01||82,625
+|-
+|jetskii#00||72,328
+|-
+|大江大海江大海 創尋爾宇么特裝吉204||67,949
+|-
+|Krilo#NUTT||62,467
+|-
+|Hight#01||61,196
+|-
+|Goroy#2667||59,063
+|-
+|Dylanphttv#ttv||56,494
+|-
+|Halcyon#Pomu||55,572
+|-
+|Toilet#TJ||52,937
+|-
+|Diamond#0416||50,928
+|-
+|Blazerker#SV1||50,438
+|-
+|ThankQ#10Q||48,538
+|-
+|ralph#tk||43,402
+|-
+|Protofo#2481||40,578
+|-
+|mvches#mvmv||35,725
+|-
+|Dill0nFPS#Main||32,729
+|-
+|thelegend1902#1902||31,469
+|-
+|Micamunch#TTV||28,290
+|-
+|Lejindary#1Jm||25,858
+|-
+|Sunfish#69||24,167
+|-
+|Mirivïdual#Ily||24,283
+|-
+|WubbyBoy#wubz||20,404
+|-
+|roughly 44 ducks#44||19,944
+|-
+|AdaptiveElk#8375||14,576
+|-
+|Sprocaine#YOLA||13,122
+|-
+|destravous#0001||12,934
+|-
+|AshTTV#PNJ||11,981
+|-
+|我們一起學貓叫一起喵喵喵喵喵#meow||9,061
+|-
+|TheTornadoboy#GAP||8,292
+|-
+|Clyde Cash#6942||7,508
+|-
+|大江大海江大海 創尋爾宇么特裝吉204||8,225
+|-
+|Birouf#M1F||7,508
+|-
+|ralph#tk||0
+|-
+|}
+</div>
+
+<div style="flex: 1; min-width: 250px;">
+====Total Healing====
+{| class="wikitable sortable" style="text-align:center; width:100%"
+|-
+!Player
+!Healing
+|-
+|Halcyon#Pomu||57,255
+|-
+|Toilet#TJ||51,959
+|-
+|Micamunch#TTV||20,234
+|-
+|Lemur#01||18,406
+|-
+|lodds#catt||17,963
+|-
+|Dylanphttv#ttv||15,145
+|-
+|roughly 44 ducks#44||14,153
+|-
+|Sunfish#69||11,723
+|-
+|ThankQ#10Q||10,087
+|-
+|Dill0nFPS#Main||9,751
+|-
+|Protofo#2481||8,589
+|-
+|PhenomEX#D1FF||7,152
+|-
+|WubbyBoy#wubz||6,618
+|-
+|Birouf#M1F||6,309
+|-
+|Sprocaine#YOLA||5,695
+|-
+|Blazerker#SV1||5,533
+|-
+|thelegend1902#1902||3,985
+|-
+|destravous#0001||2,790
+|-
+|afro#doom||2,398
+|-
+|Mirivïdual#Ily||2,111
+|-
+|TheTornadoboy#GAP||1,955
+|-
+|AshTTV#PNJ||1,824
+|-
+|Diamond#0416||1,704
+|-
+|Clyde Cash#6942||1,505
+|-
+|monsta#SV1||1,390
+|-
+|Krilo#NUTT||938
+|-
+|Hight#01||931
+|-
+|jetskii#00||765
+|-
+|AdaptiveElk#8375||716
+|-
+|Misfit#01||698
+|-
+|Goroy#2667||425
+|-
+|Lejindary#1Jm||390
+|-
+|我們一起學貓叫一起喵喵喵喵喵#meow||336
+|-
+|SHRICHAEL_JORDAN#pyn||329
+|-
+|大江大海江大海 創尋爾宇么特裝吉204||273
+|-
+|mvches#mvmv||240
+|-
+|ralph#tk||0
+|-
+|}
+</div>
+</div>
+
 ===Country Representation===
 {{Country representation|staff=true}}
